@@ -7,7 +7,12 @@ async function renderTeam() {
     const data = await (await fetch("data/team.json")).json();
 
     cur.innerHTML = "";
-    data.current.forEach(m => cur.appendChild(memberCard(m)));
+    const lastName = n => n.trim().split(/\s+/).pop().toLowerCase();
+    const members = [...data.current].sort((a, b) => {
+      if (!!a.pi !== !!b.pi) return a.pi ? -1 : 1;        // PI stays first
+      return lastName(a.name).localeCompare(lastName(b.name));
+    });
+    members.forEach(m => cur.appendChild(memberCard(m)));
     cur.appendChild(joinCard());
 
     alum.innerHTML = "";
