@@ -131,6 +131,38 @@ def do_news(args):
     return ok, fail
 
 
+def do_media(args):
+    """Localize static-page images (banner, research figures) from media.json."""
+    path = os.path.join(DATA, "media.json")
+    if not os.path.exists(path):
+        return 0, 0
+    media = load(path)
+    ok = fail = 0
+    items = []
+    if isinstance(media.get("banner"), dict):
+        items.append(media["banner"])
+    items.extend(x for x in media.get("research", []) if isinstance(x, dict))
+    for m in items:
+        url = m.get("photo_remote")
+        local = m.get("photo")
+        if not url or not local:
+            continue
+        dest = os.path.join(ROOT, local)
+        if os.path.exists(dest) and not args.force and not args.dry_run:
+            print(f"  exists, skip -> {local}")
+            continue
+        print(f"{local}:")
+        if fetch(url, dest, args.dry_run):
+            ok += 1
+            if not args.keep_remote and not args.dry_run:
+                m.pop("photo_remote", None)
+        else:
+            fail += 1
+    if not args.dry_run:
+        save(path, media)
+    return ok, fail
+
+
 def main():
     ap = argparse.ArgumentParser(description="Localize Wix CDN images.")
     ap.add_argument("--dry-run", action="store_true", help="show actions, change nothing")
@@ -143,9 +175,13 @@ def main():
     t_ok, t_fail = do_team(args)
     print("\n== news photos ==")
     n_ok, n_fail = do_news(args)
+    print("\n== static page images (banner, research) ==")
+    m_ok, m_fail = do_media(args)
 
-    print(f"\nDone. {t_ok + n_ok} downloaded, {t_fail + n_fail} failed.")
-    if t_fail + n_fail:
+    total_ok = t_ok + n_ok + m_ok
+    total_fail = t_fail + n_fail + m_fail
+    print(f"\nDone. {total_ok} downloaded, {total_fail} failed.")
+    if total_fail:
         print("Some downloads failed — those entries still reference the Wix CDN. "
               "Re-run before canceling Wix.")
         sys.exit(1)

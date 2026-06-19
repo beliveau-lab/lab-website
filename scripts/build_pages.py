@@ -2,9 +2,26 @@
 """Builds the static HTML pages with a shared header/footer. Re-run any time
 you change the shared chrome or page bodies below. Content that lives in JSON
 (team, news, publications) is rendered client-side and is NOT in here."""
+import json
 import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
+
+# Static-page images (banner, research figures) live in data/media.json so the
+# image localizer can find them too. Missing file => render without images.
+try:
+    MEDIA = json.loads((ROOT / "data" / "media.json").read_text())
+except FileNotFoundError:
+    MEDIA = {}
+
+def img_fallback(local, remote, cls, alt=""):
+    """An <img> that prefers the local copy and falls back to the Wix CDN
+    until images are localized — mirrors the team page behavior."""
+    if not (local or remote):
+        return ""
+    src = local or remote
+    onerr = f" onerror=\"this.onerror=null;this.src='{remote}'\"" if (local and remote) else ""
+    return f'<img class="{cls}" src="{src}" alt="{alt}" loading="lazy"{onerr}>'
 
 NAV = [
     ("index.html", "Home"), ("research.html", "Research"),
@@ -67,8 +84,12 @@ def page(filename, title, body, page_js=""):
     print("wrote", filename)
 
 # ---------- Home ----------
-page("index.html", "Home", """  <section class="hero">
+_b = MEDIA.get("banner", {})
+_banner = img_fallback(_b.get("photo"), _b.get("photo_remote"), "hero-banner",
+                       _b.get("alt", "Beliveau Lab"))
+page("index.html", "Home", f"""  <section class="hero">
     <div class="wrap">
+      {_banner}
       <h1>Beliveau Lab</h1>
       <p class="tagline">Technologies for understanding genomes</p>
       <p>The Beliveau Lab is focused on building robust and scalable enabling technologies to study the organization of chromosomes in 3D space, the interactions they participate in at the inter- and intra-chromosomal level, and the associated RNAs and proteins that occupy functionally relevant sites. The motivation for this work is to better understand the mechanisms by which the organization and composition of genomic intervals relevant for health and disease impact the essential DNA transactions of transcription, replication, and repair. We also are committed to building ecosystems supported by open-source software, low-cost hardware, and extensive documentation to democratize the adoption of advanced single cell and spatial approaches in order to facilitate their application in a broad range of research settings.</p>
@@ -97,8 +118,12 @@ RESEARCH = [
  ("Advanced microscopy and instrumentation",
   'Multiplexed super-resolution imaging of chromosomes in their in situ context presents significant technical challenges. We design and build <a href="https://www.nature.com/articles/s41467-017-02028-8.pdf" target="_blank" rel="noopener">custom optical configurations</a> and apply advanced optical methods to increase our ability to visualize genome organization in single cells.'),
 ]
-cards = "\n".join(
-  f'      <div class="research-card"><h3>{t}</h3><p>{b}</p></div>' for t, b in RESEARCH)
+_figs = MEDIA.get("research", [])
+def _research_card(i, t, b):
+    fig = _figs[i] if i < len(_figs) else {}
+    im = img_fallback(fig.get("photo"), fig.get("photo_remote"), "research-fig", t)
+    return f'      <div class="research-card">{im}<h3>{t}</h3><p>{b}</p></div>'
+cards = "\n".join(_research_card(i, t, b) for i, (t, b) in enumerate(RESEARCH))
 page("research.html", "Research", f"""  <div class="wrap page-head">
     <h1>Research</h1>
     <p class="lead">Each human nucleus contains two meters of DNA packaged into an organelle a mere ~10&nbsp;&micro;m in diameter. Despite this dramatic difference in scale, the three-dimensional organization of the genome is non-random and plays a critical functional role in both health and disease. Our laboratory uses a combination of computational, molecular, and optical approaches to investigate the causes and consequences of 3D genome organization in single cells.</p>

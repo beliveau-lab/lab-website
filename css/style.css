@@ -86,6 +86,10 @@ img { max-width: 100%; display: block; }
   border-bottom: 1px solid var(--line);
 }
 .hero .wrap { padding-top: 56px; padding-bottom: 56px; }
+.hero-banner {
+  display: block; width: 100%; max-width: 680px; height: auto;
+  margin: 0 0 22px;
+}
 .hero h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); margin: 0 0 6px; }
 .hero .tagline {
   font-size: clamp(1.05rem, 2.4vw, 1.4rem); color: var(--blue);
@@ -113,6 +117,10 @@ section > h2 {
 .research-card {
   border: 1px solid var(--line); border-radius: var(--radius);
   padding: 22px; background: #fff; box-shadow: var(--shadow);
+}
+.research-fig {
+  display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover;
+  border-radius: calc(var(--radius) - 2px); margin: 0 0 16px; background: #eef2f6;
 }
 .research-card h3 { margin: 0 0 8px; font-size: 1.2rem; color: var(--blue-dark); }
 .research-card p { margin: 0; color: var(--ink); font-size: .98rem; }

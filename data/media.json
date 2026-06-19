@@ -1,0 +1,37 @@
+{
+  "banner": {
+    "photo": "images/site/banner.png",
+    "photo_remote": "https://static.wixstatic.com/media/b8abaf_a64e296bd989468f81a796303e881e62~mv2_d_6200_1540_s_2.png/v1/fill/w_1100,h_273,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/banner.png",
+    "alt": "Beliveau Lab"
+  },
+  "research": [
+    {
+      "photo": "images/research/1_imaging.png",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_56f65a26652f4f73adf84b6004ef5270~mv2.png/v1/fill/w_600,h_600,al_c,q_85,enc_avif,quality_auto/research1.png"
+    },
+    {
+      "photo": "images/research/2_dynamics.png",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_dba837332eca43658736f87993ba97ae~mv2.png/v1/fill/w_600,h_600,al_c,q_85,enc_avif,quality_auto/research2.png"
+    },
+    {
+      "photo": "images/research/3_sptx.png",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_1a094f1c902f47febf91f9675624577b~mv2_d_1290_1290_s_2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/retina9.png"
+    },
+    {
+      "photo": "images/research/4_screening.png",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_99db146e1e394d75a522ae7800ae627b~mv2.png/v1/fill/w_600,h_600,al_c,q_85,enc_avif,quality_auto/research4.png"
+    },
+    {
+      "photo": "images/research/5_mining.png",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_3b757082473944d6a93d5df4a6427859~mv2.png/v1/fill/w_600,h_600,al_c,q_85,enc_avif,quality_auto/research5.png"
+    },
+    {
+      "photo": "images/research/6_techdev.png",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_6295afe03cd44331aa15dea778706127~mv2.png/v1/fill/w_600,h_600,al_c,q_85,enc_avif,quality_auto/research6.png"
+    },
+    {
+      "photo": "images/research/7_microscopy.png",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_827981f719a942f292854b4b6e166364~mv2.jpg/v1/fill/w_600,h_600,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/research7.jpg"
+    }
+  ]
+}
