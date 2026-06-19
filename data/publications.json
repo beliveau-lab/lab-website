@@ -1,0 +1,724 @@
+{
+  "preprints": [
+    {
+      "title": "Nascent transcript O-MAP reveals the molecular architecture of a single-locus subnuclear compartment built by RBM20 and the TTN RNA",
+      "authors": "Kania, E.E., Fenix, A., Marciniak, D.M., Lin, Q., Bianchi, S., Hristov, B., Li, S., Camplisson, C.K., Fields, R., Beliveau, B.J., Schweppe, D.K., Noble, W.S., Ong, S.E., Berero, A.†, Murry, C.E.†, Shechner, D.M.†",
+      "venue": "bioRxiv (2024)",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://www.biorxiv.org/content/10.1101/2024.11.05.622011v1"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.biorxiv.org/content/10.1101/2024.11.05.622011v1.full.pdf"
+        }
+      ]
+    },
+    {
+      "title": "DNA O-MAP uncovers the molecular neighborhoods associated with specific genomic loci",
+      "authors": "Liu, Y.*, McGann, C.D.*, Krebs, M., Perkins Jr., T.A., Fields, R., Camplisson, C.K., Nwizugbo, D.Z., Hsu, C., Avanessian, S.C., Tsue, A.F., Kania, E.E., Shechner, D.M., Beliveau, B.J.†, Schweppe, D.K.†",
+      "venue": "eLife (2024)",
+      "links": [
+        {
+          "label": "Reviewed preprint",
+          "url": "https://elifesciences.org/reviewed-preprints/102489"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.biorxiv.org/content/10.1101/2024.07.24.604987v3.full.pdf"
+        },
+        {
+          "label": "SI",
+          "url": "https://www.biorxiv.org/content/10.1101/2024.07.24.604987v3.supplementary-material"
+        }
+      ]
+    },
+    {
+      "title": "Harmonizing the Generation and Pre-publication Stewardship of FAIR Image Data",
+      "authors": "Bialy, N., Alber, F., Andrews, B., Angelo, M., Beliveau, B., Bintu, L., Boettiger, A., Boehm, U., Brown, C.M., et al.",
+      "venue": "arXiv (2024)",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2401.13022"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2401.13022.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Quantitative multiplexed imaging of chromatin ultrastructure with Decode-PAINT",
+      "authors": "Sasaki, H.M., Kishi, J.Y., Wu, C.-T., Beliveau, B.J.†, Yin, P.†",
+      "venue": "bioRxiv (2022)",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://www.biorxiv.org/content/10.1101/2022.08.01.502089v1"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.biorxiv.org/content/10.1101/2022.08.01.502089v1.full.pdf"
+        },
+        {
+          "label": "SI",
+          "url": "https://www.biorxiv.org/content/10.1101/2022.08.01.502089v1.supplementary-material"
+        }
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "num": 36,
+      "year": 2025,
+      "title": "Performing SABER-FISH on Chromosome Spreads in Fixed Tissue Culture Cells and in Tissues",
+      "authors": "Attar, S.*, Krebs, M.*, Nichols, E.K., Akliesh, S., Beliveau, B.J.",
+      "venue": "Methods in Molecular Biology 2968, 77–109 (2025)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://link.springer.com/protocol/10.1007/978-1-0716-4750-9_5"
+        }
+      ]
+    },
+    {
+      "num": 35,
+      "year": 2025,
+      "title": "Predicting cell cycle stage from 3D single-cell nuclear-stained images",
+      "authors": "Li, G.*, Nichols, E.K.*, Browning, V.E., Longhi, N.J., Sanchez-Forman, M., Camplisson, C.K., Beliveau, B.J.†, Noble, W.S.†",
+      "venue": "Life Science Alliance (2025)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.life-science-alliance.org/content/8/6/e202403067.abstract"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.life-science-alliance.org/content/lsa/8/6/e202403067.full-text.pdf"
+        },
+        {
+          "label": "SI",
+          "url": "https://www.life-science-alliance.org/content/8/6/e202403067/tab-figures-data"
+        }
+      ]
+    },
+    {
+      "num": 34,
+      "year": 2025,
+      "title": "Molecular Phenotyping With Proteomics",
+      "authors": "Schweppe, D.K., Beliveau, B.J., Hoofnagle, A.N.",
+      "venue": "JAMA (2025)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2829804"
+        },
+        {
+          "label": "PDF",
+          "url": "https://jamanetwork.com/journals/jama/articlepdf/2829804/jama_schweppe_2025_it_240046_1738093159.52549.pdf"
+        }
+      ]
+    },
+    {
+      "num": 33,
+      "year": 2024,
+      "title": "Efficient and highly amplified imaging of nucleic acid targets in cellular and histopathological samples with pSABER",
+      "authors": "Attar, S., Browning, V.E., Krebs, M., Liu, Y., Nichols, E.K., Tsue, A.F., Shechner, D.M., Shendure, J., Lieberman, J.A., Schweppe, D.K., Akilesh, S.†, Beliveau, B.J.†",
+      "venue": "Nature Methods (2024)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/s41592-024-02512-2"
+        },
+        {
+          "label": "PDF",
+          "url": "https://rdcu.be/d0h5x"
+        }
+      ]
+    },
+    {
+      "num": 32,
+      "year": 2024,
+      "title": "Multiomic characterization of RNA microenvironments by oligonucleotide-mediated proximity-interactome mapping",
+      "authors": "Tsue, A.F., Kania, E.E., Lei, D.Q., Fields, R., McGann, C.D., Marciniak, D.M., Hershberg, E.A., Deng, X., Kihiu, M., Ong, S.E., Disteche, C.M., Kugel, S., Beliveau, B.J., Schweppe, D.K., Shechner, D.M.",
+      "venue": "Nature Methods 21, 2058–2071 (2024)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/s41592-024-02457-6"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.nature.com/articles/s41592-024-02457-6.pdf"
+        },
+        {
+          "label": "SI",
+          "url": "https://www.nature.com/articles/s41592-024-02457-6#Sec32"
+        }
+      ]
+    },
+    {
+      "num": 31,
+      "year": 2024,
+      "title": "A guide to studying 3D genome structure and dynamics in the kidney",
+      "authors": "Beliveau, B.J., Akilesh, S.",
+      "venue": "Nature Reviews Nephrology (2024)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/s41581-024-00894-2"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.nature.com/articles/s41581-024-00894-2.pdf"
+        }
+      ]
+    },
+    {
+      "num": 30,
+      "year": 2024,
+      "title": "Designing Oligonucleotide-Based FISH Probe Sets with PaintSHOP",
+      "authors": "Perez, M.W., Camplisson, C.K., Beliveau, B.J.",
+      "venue": "Methods in Molecular Biology 2748, 177–189 (2024)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://link.springer.com/protocol/10.1007/978-1-0716-3766-1_12"
+        }
+      ]
+    },
+    {
+      "num": 29,
+      "year": 2024,
+      "title": "Tigerfish designs oligonucleotide-based in situ hybridization probes targeting intervals of highly repetitive DNA at the scale of genomes",
+      "authors": "Aguilar, R., Camplisson, C.K., Lin, Q., Miga, K.H., Noble, W.S.†, Beliveau, B.J.†",
+      "venue": "Nature Communications 15, 1027 (2024)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/s41467-024-45385-x"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.nature.com/articles/s41467-024-45385-x.pdf"
+        },
+        {
+          "label": "SI",
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-45385-x/MediaObjects/41467_2024_45385_MOESM1_ESM.pdf"
+        }
+      ]
+    },
+    {
+      "num": 28,
+      "year": 2023,
+      "title": "Spatial and temporal organization of the genome: Current state and future aims of the 4D nucleome project",
+      "authors": "Dekker, J., Alber, F., Aufmkolk, S., Beliveau, B.J., Bruneau, B.G., Belmont, A.S., Bintu, L., Boettiger, A., et al.",
+      "venue": "Molecular Cell 83 (2023)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(23)00465-3"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.cell.com/action/showPdf?pii=S1097-2765%2823%2900465-3"
+        }
+      ]
+    },
+    {
+      "num": 27,
+      "year": 2023,
+      "title": "Cohesin controls X chromosome structure remodeling and X-reactivation during mouse iPSC-reprogramming",
+      "authors": "Generoso, S.F., Neguembor, M.V., Hershberg, E.A., Sadreyev, R.I., Kurimoto, K., Yabuta, Y., Ricci, R., Audergon, P., Bauer, M., Saitou, M., Hochedlinger, K., Beliveau, B.J., Cosma, M.P., Lee, J.T., Payer, B.",
+      "venue": "Proc. Natl. Acad. Sci. USA 120, e2213810120 (2023)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.2213810120"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.pnas.org/doi/epdf/10.1073/pnas.2213810120"
+        },
+        {
+          "label": "SI",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.2213810120#supplementary-materials"
+        }
+      ]
+    },
+    {
+      "num": 26,
+      "year": 2022,
+      "title": "Optimized single-nucleus transcriptional profiling by combinatorial indexing",
+      "authors": "Martin, B.K., Qiu, C., Nichols, E.K., Phung, M., Green-Gladden, R., Srivatsan, S., Blecher-Gonan, R., Beliveau, B.J., Trapnell, C., Cao, J., Shendure, J.",
+      "venue": "Nature Protocols (2022)",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://www.nature.com/articles/s41596-022-00752-0.pdf"
+        },
+        {
+          "label": "SI",
+          "url": "https://www.nature.com/articles/s41596-022-00752-0#Sec50"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2110.15400"
+        }
+      ]
+    },
+    {
+      "num": 25,
+      "year": 2022,
+      "title": "An open source 16-channel fluidics system for automating sequential fluorescent in situ hybridization (FISH)-based imaging",
+      "authors": "Deng, Z., Beliveau, B.J.",
+      "venue": "HardwareX (2022)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://doi.org/10.1016/j.ohx.2022.e00343"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.1101/2022.03.23.485524v1"
+        }
+      ]
+    },
+    {
+      "num": 24,
+      "year": 2022,
+      "title": "A hybrid open-top light-sheet microscope for multi-scale imaging of cleared tissues",
+      "authors": "Glaser, A.K.†, Bishop, K.W., Barner, L.A., Susaki, E.A., Kubota, S.I., Gao, G., Serafin, R.B., Balaram, P., Turschak, E., Nicovich, P.R., Lai, H., et al., Beliveau, B.J., et al., Liu, J.T.C.†",
+      "venue": "Nature Methods 19, 613–619 (2022)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/s41592-022-01468-5"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.nature.com/articles/s41592-022-01468-5.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.1101/2020.05.06.081745v2"
+        }
+      ]
+    },
+    {
+      "num": 23,
+      "year": 2021,
+      "title": "PaintSHOP enables the interactive design of transcriptome- and genome-scale oligonucleotide FISH experiments",
+      "authors": "Hershberg, E.A.*, Camplisson, C.K.*, Close, J.L., Attar, S., Chern, R., Liu, Y., Akilesh, S., Nicovich, P.R., Beliveau, B.J.",
+      "venue": "Nature Methods 18, 937–944 (2021)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/s41592-021-01187-3"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.1101/2020.07.05.188797v1"
+        }
+      ]
+    },
+    {
+      "num": 22,
+      "year": 2020,
+      "title": "3D mapping and accelerated super-resolution imaging of the human genome using in situ sequencing",
+      "authors": "Nguyen, H.Q.*, Chattoraj, S.*, Castillo, D.*, Nguyen, S.C., Nir, G., Lioutas, A., Hershberg, E.A., Martins, N.M.C., Reginato, P.L., Hannan, M., Beliveau, B.J., Church, G.M., Daugharthy, E.R., Marti-Renom, M.A.†, Wu, C.-T.†",
+      "venue": "Nature Methods 17, 822–832 (2020)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/s41592-020-0890-0"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.nature.com/articles/s41592-020-0890-0.pdf"
+        },
+        {
+          "label": "SI",
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41592-020-0890-0/MediaObjects/41592_2020_890_MOESM1_ESM.pdf"
+        }
+      ]
+    },
+    {
+      "num": 21,
+      "year": 2020,
+      "title": "Combining Qdot Nanotechnology and DNA Nanotechnology for Sensitive Single-Cell Imaging",
+      "authors": "Zhou, W., Han, Y., Beliveau, B.J., Gao, X.",
+      "venue": "Advanced Materials 32, 201908410 (2020)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201908410"
+        }
+      ]
+    },
+    {
+      "num": 20,
+      "year": 2020,
+      "title": "OligoMinerApp: a web-server application for the design of genome-scale oligonucleotide in situ hybridization probes through the flexible OligoMiner environment",
+      "authors": "Passaro, M., Martinovic, M., Bevilacqua, V., Hershberg, E.A., Rossetti, G., Beliveau, B.J., Bonnal, R.J.P.†, Pagani, M.†",
+      "venue": "Nucleic Acids Research, gkaa251 (2020)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa251/5822955"
+        },
+        {
+          "label": "PDF",
+          "url": "https://academic.oup.com/nar/article-pdf/doi/10.1093/nar/gkaa251/33106200/gkaa251.pdf"
+        }
+      ]
+    },
+    {
+      "num": 19,
+      "year": 2020,
+      "title": "Pericentromeric heterochromatin is hierarchically organized and spatially contacts H3K9me2/3 islands in euchromatin",
+      "authors": "Lee, Y.C.G.†, Ogiyama, Y., Martins, N.M.C., Beliveau, B.J., Acevedo, D., Wu, C.-T., Cavalli, G., Karpen, G.H.†",
+      "venue": "PLoS Genetics 16, e1008673 (2020)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008673"
+        },
+        {
+          "label": "PDF",
+          "url": "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1008673&type=printable"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.1101/525873v1"
+        }
+      ]
+    },
+    {
+      "num": 18,
+      "year": 2019,
+      "title": "Rapid in vitro production of single-stranded DNA",
+      "authors": "Minev, D.*, Guerra, R.*, Kishi, J.Y., Smith, C., Krieg, E., Said, K., Hornick, A., Sasaki, H.M., Filsinger, G., Beliveau, B.J., Yin, P., Church, G.M., Shih, W.M.",
+      "venue": "Nucleic Acids Research, gkz998 (2019)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz998/5622713"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.1101/558429v1"
+        }
+      ]
+    },
+    {
+      "num": 17,
+      "year": 2019,
+      "title": "Immuno-SABER enables highly multiplexed and amplified protein imaging in tissues",
+      "authors": "Saka, S.K.*†, Wang, Y.*†, Kishi, J.Y., Zhu, A., Zeng, Y., Xie, W., Kirli, K., Yapp, C., Cicconet, M., Beliveau, B.J., Lapan, S.W., Yin, S., Lin, M., Boyden, E.S., Kaeser, P.S., Pihan, G., Church, G.M., Yin, P.†",
+      "venue": "Nature Biotechnology 37, 1080–1090 (2019)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/s41587-019-0207-y"
+        },
+        {
+          "label": "PDF",
+          "url": "https://yin.hms.harvard.edu/publications/2019.immuno-saber.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/early/2018/12/28/507566"
+        }
+      ]
+    },
+    {
+      "num": 16,
+      "year": 2019,
+      "title": "SABER amplifies FISH: enhanced multiplexed imaging of RNA and DNA in cells and tissues",
+      "authors": "Kishi, J.Y.*, Lapan, S.W.*, Beliveau, B.J.*†, West, E.R.*, Zhu, A., Sasaki, H.M., Saka, S.K., Wang, Y., Cepko, C.L.†, Yin, P.†",
+      "venue": "Nature Methods 16, 533–544 (2019)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/s41592-019-0404-0"
+        },
+        {
+          "label": "PDF",
+          "url": "https://yin.hms.harvard.edu/publications/2019.saber.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/early/2018/08/27/401810"
+        }
+      ]
+    },
+    {
+      "num": 15,
+      "year": 2019,
+      "title": "Islands of retroelements are the major components of Drosophila centromeres",
+      "authors": "Chang, C.H.*, Chavan, A.*, Palladino, J.*, Wei, X., Martins, N.M.C., Santinello, B., Chen, C.C., Erceg, J., Beliveau, B.J., Wu, C.-T., Larracuente, A.M.†, Mellone, B.†",
+      "venue": "PLoS Biology 17, e3000241 (2019)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000241"
+        },
+        {
+          "label": "PDF",
+          "url": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000241&type=printable"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.1101/537357v1"
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "year": 2018,
+      "title": "Walking along chromosomes with super-resolution imaging, contact maps, and integrative modeling",
+      "authors": "Nir, G.*, Farabella, I.*, Pérez Estrada, C.*, Ebeling, C.G.*, Beliveau, B.J., Sasaki, H.M., Lee, S.H., Nguyen, S.C., McCole, R.B., Chattoraj, S., et al., Stuckey, J.A.†, Yin, P.†, Lieberman Aiden, E.†, Marti-Renom, M.A.†, Wu, C.-T.†",
+      "venue": "PLoS Genetics 14, e1007872 (2018)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007872"
+        },
+        {
+          "label": "PDF",
+          "url": "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1007872&type=printable"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/early/2018/07/28/374058"
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "year": 2018,
+      "title": "OligoMiner provides a rapid, flexible environment for the design of genome-scale oligonucleotide in situ hybridization probes",
+      "authors": "Beliveau, B.J.†, Kishi, J.Y., Nir, G., Sasaki, H.M., Saka, S.K., Nguyen, S.C., Wu, C.-T., Yin, P.†",
+      "venue": "Proc. Natl. Acad. Sci. USA 115, E2183–E2192 (2018)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "http://www.pnas.org/content/115/10/E2183.long"
+        },
+        {
+          "label": "PDF",
+          "url": "http://www.pnas.org/content/pnas/115/10/E2183.full.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/early/2017/08/16/171504"
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "year": 2017,
+      "title": "Multiplexed 3D super-resolution imaging of whole cells using Spinning Disc Confocal Microscopy and DNA-PAINT",
+      "authors": "Schüder, F., Lara-Gutiérrez, J., Beliveau, B.J., Saka, S.K., Sasaki, H.M., Woehrstein, J.B., Strauss, M.T., Grabmayr, H., Yin, P., Jungmann, R.",
+      "venue": "Nature Communications 8, 2090 (2017)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/s41467-017-02028-8"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.nature.com/articles/s41467-017-02028-8.pdf"
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "year": 2017,
+      "title": "In situ super-resolution imaging of genomic DNA with OligoSTORM and OligoDNA-PAINT",
+      "authors": "Beliveau, B.J.*, Boettiger, A.N.*, Nir, G.*, Bintu, B.*, Yin, P., Zhuang, X., Wu, C.-T.",
+      "venue": "Methods in Molecular Biology 1663, 231–252 (2017)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://link.springer.com/protocol/10.1007%2F978-1-4939-7265-4_19"
+        },
+        {
+          "label": "PDF",
+          "url": "https://yin.hms.harvard.edu/publications/2017.oligodnapaint.pdf"
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "year": 2016,
+      "title": "Spatial organization of chromatin domains and compartments in single chromosomes",
+      "authors": "Wang, S., Su, J.H., Beliveau, B.J., Bintu, B., Moffitt, J.R., Wu, C.-T., Zhuang, X.",
+      "venue": "Science 353, 598–602 (2016)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "http://science.sciencemag.org/content/early/2016/07/20/science.aaf8084"
+        },
+        {
+          "label": "PDF",
+          "url": "http://science.sciencemag.org/content/early/2016/07/20/science.aaf8084.full.pdf"
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "year": 2016,
+      "title": "Super-resolution imaging reveals distinct chromatin folding for different epigenetic states",
+      "authors": "Boettiger, A.N., Bintu, B., Moffitt, J.R., Wang, S., Beliveau, B.J., Fudenberg, G., Imakaev, M., Mirny, L.A., Wu, C.-T., Zhuang, X.",
+      "venue": "Nature 529, 418–422 (2016)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/nature16496"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.nature.com/articles/nature16496.pdf"
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "year": 2015,
+      "title": "Scalable amplification of single-stranded oligonucleotides from chip-synthesized oligonucleotide libraries",
+      "authors": "Schmidt, T.L., Beliveau, B.J., Uca, Y.O., Theilmann, M., Da Cruz, F., Wu, C.-T., Shih, W.M.",
+      "venue": "Nature Communications 6, 9634 (2015)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/ncomms9634"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.nature.com/articles/ncomms9634.pdf"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "year": 2015,
+      "title": "Single-molecule super-resolution imaging of chromosomes and in situ haplotype visualization using Oligopaint FISH probes",
+      "authors": "Beliveau, B.J., Boettiger, A.B., Avendaño, M.S., Jungmann, R., McCole, R.B., Joyce, E.F., Kim-Kiselak, C., Bantignies, F., Fonseka, C.Y., Erceg, J., Hannan, M.A., Hoang, H.G., Colognori, D., Lee, J.T., Shih, W.M., Yin, P., Zhuang, X., Wu, C.-T.",
+      "venue": "Nature Communications 6, 8147 (2015)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.nature.com/articles/ncomms8147"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.nature.com/articles/ncomms8147.pdf"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "year": 2015,
+      "title": "Allelic imbalance is a prevalent and tissue-specific feature of the mouse transcriptome",
+      "authors": "Pinter, S.F., Colognori, D., Beliveau, B.J., Sadreyev, R.I., Payer, B., Yildirim, E., Wu, C.-T., Lee, J.T.",
+      "venue": "Genetics 200, 537–549 (2015)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "http://www.genetics.org/content/200/2/537"
+        },
+        {
+          "label": "PDF",
+          "url": "http://www.genetics.org/content/genetics/200/2/537.full.pdf"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "year": 2015,
+      "title": "Combined in vitro transcription and reverse transcription to amplify and label complex synthetic oligonucleotide probe libraries",
+      "authors": "Murgha, Y., Beliveau, B., Semrau, K., Schwartz, D., Wu, C.-T., Gulari, E., Rouillard, J.M.",
+      "venue": "Biotechniques 58, 301–307 (2015)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.future-science.com/doi/10.2144/000114298"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.future-science.com/doi/pdf/10.2144/000114298"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "year": 2015,
+      "title": "Avoiding the Ends: Internal Epitope Tagging of Proteins Using Transposon Tn7",
+      "authors": "Zordan, R.E., Beliveau, B.J., Trow, J.A., Craig, N.L., Cormack, B.P.",
+      "venue": "Genetics 200, 47–58 (2015)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "http://www.genetics.org/content/200/1/47.long"
+        },
+        {
+          "label": "PDF",
+          "url": "http://www.genetics.org/content/genetics/200/1/47.full.pdf"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "year": 2014,
+      "title": "Visualizing genomes with Oligopaint FISH probes",
+      "authors": "Beliveau, B.J., Apostolopoulos, N.A., Wu, C.-T.",
+      "venue": "Current Protocols in Molecular Biology 105, Unit 14.23 (2014)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://currentprotocols.onlinelibrary.wiley.com/doi/pdf/10.1002/0471142727.mb1423s105"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "year": 2013,
+      "title": "Germline progenitors escape the widespread phenomenon of homolog pairing during Drosophila development",
+      "authors": "Joyce, E.F., Apostolopoulos, N., Beliveau, B.J., Wu, C.-T.",
+      "venue": "PLoS Genetics 9, e1004013 (2013)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004013"
+        },
+        {
+          "label": "PDF",
+          "url": "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1004013&type=printable"
+        }
+      ]
+    },
+    {
+      "num": 1,
+      "year": 2012,
+      "title": "Versatile design and synthesis platform for visualizing genomes with Oligopaint FISH probes",
+      "authors": "Beliveau, B.J.*, Joyce, E.F.*, Apostolopoulos, N., Yilmaz, F., Fonseka, C.Y., McCole, R.B., Chang, Y., Li, J.B., Senaratne, T.N., Williams, B.R., Rouillard, J.M., Wu, C.-T.",
+      "venue": "Proc. Natl. Acad. Sci. USA 109, 21301–21306 (2012)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "http://www.pnas.org/content/109/52/21301"
+        },
+        {
+          "label": "PDF",
+          "url": "http://www.pnas.org/content/pnas/109/52/21301.full.pdf"
+        }
+      ]
+    }
+  ],
+  "scholar": "https://scholar.google.com/citations?user=whBdHk8AAAAJ&hl=en",
+  "pubmed": "https://www.ncbi.nlm.nih.gov/pubmed?term=((beliveau%20B%5BAuthor%5D%20OR%20beliveau%20BJ%5BAuthor%5D))%20AND%20(%222012%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)"
+}
