@@ -35,24 +35,6 @@
       "photo_remote": "https://static.wixstatic.com/media/b8abaf_8b5707e1f21f44619b04bd9c15a7b8c2~mv2.png/v1/crop/x_2,y_0,w_838,h_842/fill/w_400,h_400,al_c,q_85,enc_avif,quality_auto/profile_crop3.png"
     },
     {
-      "name": "Eanya Devasagayam",
-      "role": "Undergraduate Researcher",
-      "email": "eanyad@uw.edu",
-      "program": "UW Bioengineering",
-      "joined": "Mar 2024",
-      "photo": "images/team/eanya_devasagayam.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_63b14e3de0984ecf8f54decaee14193a~mv2.jpg/v1/crop/x_972,y_268,w_2483,h_2486/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/DSC_7889.jpg"
-    },
-    {
-      "name": "Kiara Dote",
-      "role": "Undergraduate Researcher",
-      "email": "kdote2@uw.edu",
-      "program": "UW Molecular Cellular and Developmental Biology",
-      "joined": "Oct 2025",
-      "photo": "images/team/kiara_dote.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_683b9fe0f8624dbaa1b3d6e6eb9f26ef~mv2.jpg/v1/crop/x_95,y_257,w_783,h_783/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_3241.jpg"
-    },
-    {
       "name": "Pratika Eswaran",
       "role": "Undergraduate Researcher",
       "email": "pve2@uw.edu",
@@ -129,42 +111,6 @@
       "photo_remote": "https://static.wixstatic.com/media/b8abaf_b67e295071c0472f94675f3a417d32b5~mv2.jpg/v1/crop/x_105,y_809,w_2459,h_2471/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_6209.jpg"
     },
     {
-      "name": "Aadyant Maity",
-      "role": "Undergraduate Researcher",
-      "email": "amaity@uw.edu",
-      "program": "UW Computer Science",
-      "joined": "Aug 2025",
-      "photo": "images/team/aadyant_maity.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_b40e24ca6d6d4e60a5fecac9f235bb0e~mv2.jpeg/v1/crop/x_55,y_0,w_2592,h_2592/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_7489.jpeg"
-    },
-    {
-      "name": "Arin Meeks-Muradyan",
-      "role": "Undergraduate Researcher",
-      "email": "arinmks@uw.edu",
-      "program": "UW Bioengineering",
-      "joined": "Jul 2025",
-      "photo": "images/team/arin_meeks_muradyan.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_69a603c238ef40acb1d738740dcd0199~mv2.jpg/v1/crop/x_256,y_153,w_541,h_541/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_9663.jpg"
-    },
-    {
-      "name": "Eva K. Nichols",
-      "role": "Acting Instructor",
-      "degree": "PhD in Molecular and Cell Biology, UC Berkeley",
-      "email": "eknich@uw.edu",
-      "pronouns": "she/her",
-      "joined": "Jul 2020",
-      "social": {
-        "label": "@evaknichols",
-        "url": "https://twitter.com/evaknichols"
-      },
-      "joint": {
-        "name": "Shendure Lab",
-        "url": "https://shendure-web.gs.washington.edu/"
-      },
-      "photo": "images/team/eva_nichols.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_0f0d1822d49147459a15bf22b0cd6f51~mv2.jpg/v1/crop/x_28,y_0,w_919,h_918/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/Image%20from%20iOS%20(3).jpg"
-    },
-    {
       "name": "Monika Perez",
       "role": "Graduate Student (GS)",
       "email": "mwperez@uw.edu",
@@ -173,24 +119,86 @@
       "photo_remote": "https://static.wixstatic.com/media/b8abaf_eb9a0b9567364ff8b47d7a6125584423~mv2.jpg/v1/crop/x_118,y_0,w_956,h_961/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/10-03-17%20monika%20perez_headshot.jpg"
     },
     {
+      "name": "Shreyansh Padhy",
+      "role": "Undergraduate Researcher",
+      "program": "UW Engineering",
+      "photo": "images/site/avatar-placeholder.svg",
+      "joined": "Jan 2026"
+    },
+    {
+      "name": "Gajanan Dhongade",
+      "role": "Undergraduate Researcher",
+      "program": "UW Computer Science",
+      "photo": "images/site/avatar-placeholder.svg",
+      "joined": "Jan 2026"
+    },
+    {
+      "name": "Harshita Keerthipati",
+      "role": "Undergraduate Researcher",
+      "program": "UW Computer Science",
+      "photo": "images/site/avatar-placeholder.svg",
+      "joined": "Jan 2026"
+    },
+    {
+      "name": "Krishna Pratheek Madamala",
+      "role": "Undergraduate Researcher",
+      "program": "UW Engineering",
+      "photo": "images/site/avatar-placeholder.svg",
+      "joined": "Jan 2026"
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Arin Meeks-Muradyan",
+      "role": "Undergraduate Researcher",
+      "dates": "Jul 2025 – Jun 2026",
+      "photo": "images/alumni/arin_meeks_muradyan.jpg",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_69a603c238ef40acb1d738740dcd0199~mv2.jpg/v1/crop/x_256,y_153,w_541,h_541/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_9663.jpg"
+    },
+    {
+      "name": "Eanya Devasagayam",
+      "role": "Undergraduate Researcher",
+      "dates": "Mar 2024 – Jun 2026",
+      "photo": "images/alumni/eanya_devasagayam.jpg",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_63b14e3de0984ecf8f54decaee14193a~mv2.jpg/v1/crop/x_972,y_268,w_2483,h_2486/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/DSC_7889.jpg"
+    },
+    {
+      "name": "Kiara Dote",
+      "role": "Undergraduate Researcher",
+      "dates": "Oct 2025 – Jun 2026",
+      "photo": "images/alumni/kiara_dote.jpg",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_683b9fe0f8624dbaa1b3d6e6eb9f26ef~mv2.jpg/v1/crop/x_95,y_257,w_783,h_783/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_3241.jpg"
+    },
+    {
+      "name": "Aadyant Maity",
+      "role": "Undergraduate Researcher",
+      "dates": "Aug 2025 – Mar 2026",
+      "photo": "images/alumni/aadyant_maity.jpg",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_b40e24ca6d6d4e60a5fecac9f235bb0e~mv2.jpeg/v1/crop/x_55,y_0,w_2592,h_2592/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_7489.jpeg"
+    },
+    {
       "name": "Madison Sanchez-Forman",
       "role": "MS Student (MSDS)",
-      "email": "msforman@uw.edu",
-      "pronouns": "she/her/hers",
-      "joined": "Sept 2024",
-      "photo": "images/team/madison_sanchez_forman.png",
+      "dates": "Sept 2024 – Mar 2026",
+      "photo": "images/alumni/madison_sanchez_forman.png",
       "photo_remote": "https://static.wixstatic.com/media/b8abaf_680b1c25e7df46cea995ad16a8f8df9b~mv2.png/v1/crop/x_765,y_1587,w_2711,h_2714/fill/w_400,h_400,al_c,q_85,enc_avif,quality_auto/IMG_0291_HEIC.png"
+    },
+    {
+      "name": "Eva K. Nichols",
+      "role": "Acting Instructor",
+      "dates": "July 2020 – Feb 2026",
+      "photo": "images/alumni/eva_nichols.jpg",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_0f0d1822d49147459a15bf22b0cd6f51~mv2.jpg/v1/crop/x_28,y_0,w_919,h_918/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/Image%20from%20iOS%20(3).jpg",
+      "after": "Now an AI Scientist at the Seattle Children's Research Institute",
+      "after_url": "https://www.seattlechildrens.org/research/"
     },
     {
       "name": "Olivia Weissenfels",
       "role": "Rotation Student (GS)",
-      "email": "Opodha@uw.edu",
-      "joined": "Sept 2025",
-      "photo": "images/team/olivia_weissenfels.jpg",
+      "dates": "Sept 2025 – Dec 2025",
+      "photo": "images/alumni/olivia_weissenfels.jpg",
       "photo_remote": "https://static.wixstatic.com/media/b8abaf_db31bfdaec214784917857b02afb9f1c~mv2.jpg/v1/crop/x_0,y_113,w_2083,h_2083/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/OliviaWeissenfels.jpg"
-    }
-  ],
-  "alumni": [
+    },
     {
       "name": "David Nwizugbo",
       "role": "Research Assistant",
