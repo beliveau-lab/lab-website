@@ -62,12 +62,10 @@ def head(title, extra_js=""):
 FOOTER = """  <footer class="site-footer">
     <div class="wrap">
       <span>&copy; 2026 Brian J. Beliveau, PhD</span>
-      <span class="sep">|</span><a href="about.html">About</a>
       <span class="sep">|</span><a href="http://www.washington.edu/" target="_blank" rel="noopener">UW</a>
       <span class="sep">|</span><a href="https://www.uwmedicine.org/" target="_blank" rel="noopener">UW Medicine</a>
       <span class="sep">|</span><a href="http://www.gs.washington.edu/" target="_blank" rel="noopener">Genome Sciences</a>
       <span class="sep">|</span><a href="contact.html">Contact</a>
-      <span class="sep">|</span><a href="resources.html">Resources</a>
       <span class="sep">|</span><a href="https://bsky.app/profile/oligopain.bsky.social" target="_blank" rel="noopener">Bluesky</a>
     </div>
   </footer>
@@ -94,9 +92,6 @@ page("index.html", "Home", f"""  <section class="hero">
       <p class="tagline">Technologies for understanding genomes</p>
       <p>The Beliveau Lab is focused on building robust and scalable enabling technologies to study the organization of chromosomes in 3D space, the interactions they participate in at the inter- and intra-chromosomal level, and the associated RNAs and proteins that occupy functionally relevant sites. The motivation for this work is to better understand the mechanisms by which the organization and composition of genomic intervals relevant for health and disease impact the essential DNA transactions of transcription, replication, and repair. We also are committed to building ecosystems supported by open-source software, low-cost hardware, and extensive documentation to democratize the adoption of advanced single cell and spatial approaches in order to facilitate their application in a broad range of research settings.</p>
       <p>We believe strongly that science is for everyone.</p>
-      <div class="equity-note">
-        Please see our <a href="resources.html">Policy on Harassment and Discrimination</a>.
-      </div>
     </div>
   </section>
 """)
@@ -224,36 +219,13 @@ page("join.html", "Join", """  <div class="wrap page-head">
   </main>
 """)
 
-# ---------- Footer stubs (so footer links don't 404) ----------
-page("resources.html", "Resources", """  <div class="wrap page-head">
-    <h1>Resources</h1>
-  </div>
-  <main class="wrap">
-    <section>
-      <h2>Policy on Harassment and Discrimination</h2>
-      <p>We believe strongly that science is for everyone. The Beliveau Lab does not tolerate harassment or discrimination of any kind.</p>
-      <p style="color:var(--muted)"><em>Migration note: paste the lab's full policy text and any additional resource links here, then delete this note. (This content was not part of the main page scrape.)</em></p>
-    </section>
-  </main>
-""")
-
+# ---------- Contact ----------
 page("contact.html", "Contact", """  <div class="wrap page-head">
     <h1>Contact</h1>
   </div>
   <main class="wrap">
     <section>
       <p>Brian J. Beliveau, PhD<br>Department of Genome Sciences, University of Washington<br><a href="mailto:beliveau@uw.edu">beliveau [at] uw.edu</a></p>
-      <p style="color:var(--muted)"><em>Migration note: add the lab's mailing address / office and shipping details here.</em></p>
-    </section>
-  </main>
-""")
-
-page("about.html", "About", """  <div class="wrap page-head">
-    <h1>About</h1>
-  </div>
-  <main class="wrap">
-    <section>
-      <p style="color:var(--muted)"><em>Migration note: add the PI bio / lab background here. (This page was not part of the main scrape.)</em></p>
     </section>
   </main>
 """)

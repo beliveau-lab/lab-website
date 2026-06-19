@@ -1,11 +1,5 @@
 // Renders publications from data/publications.json, grouped by year, with
-// preprints first. The PI's name is bolded automatically.
-
-function boldBeliveau(authors) {
-  // Escape, then bold any "Beliveau" surname token.
-  const esc = authors.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-  return esc.replace(/(Beliveau,?\s*B(?:\.J\.|\.)?)/g, "<b>$1</b>");
-}
+// preprints first.
 
 function pubEl(p) {
   const el = document.createElement("div");
@@ -23,7 +17,7 @@ function pubEl(p) {
 
   const authors = document.createElement("div");
   authors.className = "pub-authors";
-  authors.innerHTML = boldBeliveau(p.authors);
+  authors.textContent = p.authors;
   el.appendChild(authors);
 
   const venue = document.createElement("div");
