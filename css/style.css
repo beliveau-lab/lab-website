@@ -242,3 +242,10 @@ a:focus-visible, button:focus-visible {
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 }
+
+/* ---- Contact map ---- */
+.contact-map { margin-top: 28px; max-width: 720px; }
+.contact-map iframe {
+  width: 100%; height: 360px; display: block;
+  border: 1px solid var(--line); border-radius: var(--radius);
+}

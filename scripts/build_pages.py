@@ -238,6 +238,11 @@ page("contact.html", "Contact", """  <div class="wrap page-head">
         3720 15th Ave NE<br>
         Seattle, WA 98105
       </p>
+      <div class="contact-map">
+        <iframe title="Beliveau Lab location — William H. Foege Building, University of Washington"
+          src="https://maps.google.com/maps?q=William+H.+Foege+Building,+3720+15th+Ave+NE,+Seattle,+WA+98195&z=15&output=embed"
+          loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+      </div>
     </section>
   </main>
 """)
