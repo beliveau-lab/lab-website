@@ -65,19 +65,6 @@
       "photo_remote": "https://static.wixstatic.com/media/b8abaf_38272f18d3374df7bca08b58ac8f472a~mv2.jpg/v1/crop/x_227,y_113,w_911,h_911/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_6503.jpg"
     },
     {
-      "name": "Hunter Jung",
-      "role": "Undergraduate Researcher",
-      "email": "hjung17@uw.edu",
-      "program": "UW French (Premed)",
-      "joined": "Oct 2023",
-      "joint": {
-        "name": "Schweppe Lab",
-        "url": "https://www.schweppelab.org/"
-      },
-      "photo": "images/team/hunter_jung.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_c4b2d9a82b9b493a90d18a50fa530ead~mv2.jpg/v1/crop/x_700,y_1135,w_1587,h_1587/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_0659.jpg"
-    },
-    {
       "name": "Conor Kelly",
       "role": "Graduate Student (GS)",
       "email": "cokelly@uw.edu",
@@ -122,29 +109,33 @@
       "name": "Shreyansh Padhy",
       "role": "Undergraduate Researcher",
       "program": "UW Engineering",
-      "photo": "images/site/avatar-placeholder.svg",
-      "joined": "Jan 2026"
+      "photo": "images/team/shreyansh_padhy.jpg",
+      "joined": "Jan 2026",
+      "email": "shpadhy@uw.edu"
     },
     {
       "name": "Gajanan Dhongade",
       "role": "Undergraduate Researcher",
       "program": "UW Computer Science",
-      "photo": "images/site/avatar-placeholder.svg",
-      "joined": "Jan 2026"
+      "photo": "images/team/gajanan_dhongade.jpg",
+      "joined": "Jan 2026",
+      "email": "gajanan@cs.washington.edu"
     },
     {
       "name": "Harshita Keerthipati",
       "role": "Undergraduate Researcher",
       "program": "UW Computer Science",
-      "photo": "images/site/avatar-placeholder.svg",
-      "joined": "Jan 2026"
+      "photo": "images/team/harshita_keerthipati.jpg",
+      "joined": "Jan 2026",
+      "email": "hkeer@uw.edu"
     },
     {
       "name": "Krishna Pratheek Madamala",
       "role": "Undergraduate Researcher",
       "program": "UW Engineering",
-      "photo": "images/site/avatar-placeholder.svg",
-      "joined": "Jan 2026"
+      "photo": "images/team/krishna_pratheek_madamala.jpg",
+      "joined": "Jan 2026",
+      "email": "kmadam@uw.edu"
     }
   ],
   "alumni": [
@@ -168,6 +159,13 @@
       "dates": "Oct 2025 – Jun 2026",
       "photo": "images/alumni/kiara_dote.jpg",
       "photo_remote": "https://static.wixstatic.com/media/b8abaf_683b9fe0f8624dbaa1b3d6e6eb9f26ef~mv2.jpg/v1/crop/x_95,y_257,w_783,h_783/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_3241.jpg"
+    },
+    {
+      "name": "Hunter Jung",
+      "role": "Undergraduate Researcher",
+      "dates": "Oct 2023 – Jun 2026",
+      "photo": "images/alumni/hunter_jung.jpg",
+      "photo_remote": "https://static.wixstatic.com/media/b8abaf_c4b2d9a82b9b493a90d18a50fa530ead~mv2.jpg/v1/crop/x_700,y_1135,w_1587,h_1587/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_0659.jpg"
     },
     {
       "name": "Aadyant Maity",
