@@ -73,21 +73,6 @@ function alumCard(a) {
   const dates = document.createElement("div");
   dates.className = "dates"; dates.textContent = a.dates; el.appendChild(dates);
 
-  if (a.after) {
-    const after = document.createElement("div");
-    after.className = "after";
-    if (a.after_url) {
-      // Link the institution name embedded in the "after" string if a URL exists.
-      after.innerHTML = a.after.replace(/(?:at|in|the) ([^.]+)$/, (full) => full);
-      const link = document.createElement("a");
-      link.href = a.after_url; link.target = "_blank"; link.rel = "noopener";
-      link.textContent = a.after;
-      after.innerHTML = ""; after.appendChild(link);
-    } else {
-      after.textContent = a.after;
-    }
-    el.appendChild(after);
-  }
   return el;
 }
 

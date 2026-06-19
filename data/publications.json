@@ -1,6 +1,28 @@
 {
   "preprints": [
     {
+      "title": "A unified photosensitizer platform for in situ DNA-, RNA-, and protein-directed proximity labeling",
+      "authors": "Biletch, E.B.*, Herlihy, C.P.*, Li, L.*, Krebs, M., Kelly, C.J., Longhi, N.J., Weissenfels, O., Goldberg, H.G., Brandt, K., Grimm, J.B., Lavis, L.D., Huttlin, E.L., Schweppe, D.K.†, Backus, K.M.†, Beliveau, B.J.† [*Co-first authors] [†Co-corresponding authors]",
+      "venue": "bioRxiv (2026)",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://doi.org/10.64898/2026.04.30.721698"
+        }
+      ]
+    },
+    {
+      "title": "Multimodal analysis of molecular remodeling in aging spleen identified global and cell type specific changes",
+      "authors": "Vlajic, K., Luciano, A., Merrihew, G.E., Sanchez, C.R., Riffle, M., Tsantilas, K.A., Attar, S., Beliveau, B.J., Sweetwyne, M.T., MacCoss, M.J., Churchill, G., Schweppe, D.K.",
+      "venue": "bioRxiv (2026)",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://doi.org/10.64898/2026.04.17.719305"
+        }
+      ]
+    },
+    {
       "title": "Nascent transcript O-MAP reveals the molecular architecture of a single-locus subnuclear compartment built by RBM20 and the TTN RNA",
       "authors": "Kania, E.E., Fenix, A., Marciniak, D.M., Lin, Q., Bianchi, S., Hristov, B., Li, S., Camplisson, C.K., Fields, R., Beliveau, B.J., Schweppe, D.K., Noble, W.S., Ong, S.E., Berero, A.†, Murry, C.E.†, Shechner, D.M.†",
       "venue": "bioRxiv (2024)",
@@ -12,25 +34,6 @@
         {
           "label": "PDF",
           "url": "https://www.biorxiv.org/content/10.1101/2024.11.05.622011v1.full.pdf"
-        }
-      ]
-    },
-    {
-      "title": "DNA O-MAP uncovers the molecular neighborhoods associated with specific genomic loci",
-      "authors": "Liu, Y.*, McGann, C.D.*, Krebs, M., Perkins Jr., T.A., Fields, R., Camplisson, C.K., Nwizugbo, D.Z., Hsu, C., Avanessian, S.C., Tsue, A.F., Kania, E.E., Shechner, D.M., Beliveau, B.J.†, Schweppe, D.K.†",
-      "venue": "eLife (2024)",
-      "links": [
-        {
-          "label": "Reviewed preprint",
-          "url": "https://elifesciences.org/reviewed-preprints/102489"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/10.1101/2024.07.24.604987v3.full.pdf"
-        },
-        {
-          "label": "SI",
-          "url": "https://www.biorxiv.org/content/10.1101/2024.07.24.604987v3.supplementary-material"
         }
       ]
     },
@@ -70,6 +73,45 @@
     }
   ],
   "papers": [
+    {
+      "num": 39,
+      "year": 2026,
+      "title": "Chromatin architectures underlying plasmid-based assays for regulatory variant effects",
+      "authors": "Mallory, B.J., Tullius, T.W., Biar, C.G., Herlihy, C.P., Gustafson, J.A., Bohaczuk, S.C., Dubocanin, D., Beliveau, B.J., Schweppe, D.K., Starita, L.M.†, Stergachis, A.B.† [†Co-corresponding authors]",
+      "venue": "Molecular Cell 86, 2041–2054.e9 (2026)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00281-9"
+        }
+      ]
+    },
+    {
+      "num": 38,
+      "year": 2026,
+      "title": "Genome instability triggers intercellular DNA transfer between human cells",
+      "authors": "Maurais, E.G., Mazzagatti, A., Lin, Y.-F., Narozna, M., Hu, Q., Dahiya, R., Santiago-Ferrer, D., Herlihy, C.P., Krebs, M., Pateraki, N., Parcharidou, E., Papathanasiou, S., Beliveau, B.J., Gorbsky, G.J., Cortés-Ciriano, I., Ly, P.",
+      "venue": "Cell (2026)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00508-8"
+        }
+      ]
+    },
+    {
+      "num": 37,
+      "year": 2026,
+      "title": "DNA O-MAP uncovers the molecular neighborhoods associated with specific genomic loci",
+      "authors": "Liu, Y.*, McGann, C.D.*, Herlihy, C.P., Krebs, M., Perkins Jr., T.A., Fields, R., Camplisson, C.K., Nwizugbo, D.Z., Lin, Q., Longhi, N.J., Hsu, C., Avanessian, S.C., Tsue, A.F., Kania, E.E., Shechner, D.M., Beliveau, B.J.†, Schweppe, D.K.† [*Co-first authors] [†Co-corresponding authors]",
+      "venue": "eLife 13, RP102489 (2026)",
+      "links": [
+        {
+          "label": "Journal",
+          "url": "https://elifesciences.org/articles/102489"
+        }
+      ]
+    },
     {
       "num": 36,
       "year": 2025,
