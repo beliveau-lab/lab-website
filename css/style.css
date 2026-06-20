@@ -136,10 +136,8 @@ section > h2 {
   object-fit: cover; background: var(--bg-soft);
   border: 3px solid #fff; box-shadow: var(--shadow);
 }
-.member.pi .photo { width: 168px; height: 168px; border-color: #eaf1f8; }
 .member .name { font-weight: 700; font-family: "Inria Serif", Georgia, serif;
   color: var(--blue-deep); font-size: 1.02rem; }
-.member.pi .name { font-size: 1.12rem; }
 .member .role { color: var(--accent); font-weight: 600; font-size: .9rem; }
 .member .meta { color: var(--muted); font-size: .85rem; margin-top: 2px; }
 .member .meta a { font-size: .85rem; }
