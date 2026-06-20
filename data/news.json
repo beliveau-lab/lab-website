@@ -70,6 +70,10 @@
     "photos": [
       "https://static.wixstatic.com/media/b8abaf_a72159cc794c4ddd9cb3269b3a169cdb~mv2.jpg/v1/fill/w_854,h_690,al_c,q_85,enc_avif,quality_auto/b8abaf_a72159cc794c4ddd9cb3269b3a169cdb~mv2.jpg",
       "https://static.wixstatic.com/media/b8abaf_42caafd23057431e87577353d01822fc~mv2.jpg/v1/crop/x_470,y_780,w_3138,h_1794/fill/w_512,h_311,al_c,q_80,enc_avif,quality_auto/b8abaf_42caafd23057431e87577353d01822fc~mv2.jpg"
+    ],
+    "photos_local": [
+      "images/news/july_2025_1.jpg",
+      "images/news/july_2025_2.jpg"
     ]
   },
   {
@@ -130,6 +134,9 @@
     ],
     "photos": [
       "https://static.wixstatic.com/media/b8abaf_26330bd356f345b7b41ad73d3b0a0e61~mv2.jpg/v1/crop/x_741,y_866,w_2635,h_1984/fill/w_600,h_452,al_c,q_80,enc_avif,quality_auto/PXL_20240726_193301949.jpg"
+    ],
+    "photos_local": [
+      "images/news/july_2024_1.jpg"
     ]
   },
   {
@@ -167,6 +174,9 @@
     ],
     "photos": [
       "https://static.wixstatic.com/media/b8abaf_315bd44dd2ff4e6284365308709ff195~mv2.jpg/v1/crop/x_0,y_584,w_4080,h_1905/fill/w_784,h_366,al_c,q_80,enc_avif,quality_auto/PXL_20240112_012603676.jpg"
+    ],
+    "photos_local": [
+      "images/news/january_2024_1.jpg"
     ]
   },
   {

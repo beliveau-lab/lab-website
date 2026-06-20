@@ -11,8 +11,7 @@
         "label": "@oligopain",
         "url": "https://bsky.app/profile/oligopain.bsky.social"
       },
-      "photo": "images/team/brian_beliveau.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_2e31ea63bbc849c587fbca10fc163aad~mv2.jpg/v1/crop/x_340,y_742,w_1799,h_1797/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/PXL_20231230_190305175.jpg"
+      "photo": "images/team/brian_beliveau.jpg"
     },
     {
       "name": "Sahar Attar",
@@ -23,16 +22,14 @@
         "name": "Schweppe Lab",
         "url": "https://www.schweppelab.org/"
       },
-      "photo": "images/team/sahar_attar.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_cd269df7dfd0428da300fe2efcaca167~mv2.jpg/v1/crop/x_495,y_200,w_2467,h_2481/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_0504.jpg"
+      "photo": "images/team/sahar_attar.jpg"
     },
     {
       "name": "Conor Camplisson",
       "role": "Graduate Student (GS)",
       "email": "concamp@uw.edu",
       "joined": "Jun 2020",
-      "photo": "images/team/conor_camplisson.png",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_8b5707e1f21f44619b04bd9c15a7b8c2~mv2.png/v1/crop/x_2,y_0,w_838,h_842/fill/w_400,h_400,al_c,q_85,enc_avif,quality_auto/profile_crop3.png"
+      "photo": "images/team/conor_camplisson.png"
     },
     {
       "name": "Pratika Eswaran",
@@ -40,16 +37,14 @@
       "email": "pve2@uw.edu",
       "program": "UW Computer Science",
       "joined": "Jul 2025",
-      "photo": "images/team/pratika_eswaran.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_9cbf0562507145ad91f8a47d8b2a36f7~mv2.jpg/v1/crop/x_1687,y_1134,w_1889,h_1890/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_3057.jpg"
+      "photo": "images/team/pratika_eswaran.jpg"
     },
     {
       "name": "Julia Glasser",
       "role": "MS Student (MSDS)",
       "email": "glasserj@uw.edu",
       "joined": "Sept 2025",
-      "photo": "images/team/julia_glasser.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_763567f9a8db478f88ef041808e0068b~mv2.jpg/v1/crop/x_0,y_386,w_2316,h_2316/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_9908.jpg"
+      "photo": "images/team/julia_glasser.jpg"
     },
     {
       "name": "Conor Herlihy",
@@ -61,24 +56,21 @@
         "name": "Schweppe Lab",
         "url": "https://www.schweppelab.org/"
       },
-      "photo": "images/team/conor_herlihy.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_38272f18d3374df7bca08b58ac8f472a~mv2.jpg/v1/crop/x_227,y_113,w_911,h_911/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_6503.jpg"
+      "photo": "images/team/conor_herlihy.jpg"
     },
     {
       "name": "Conor Kelly",
       "role": "Graduate Student (GS)",
       "email": "cokelly@uw.edu",
       "joined": "Jun 2023",
-      "photo": "images/team/conor_kelly.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_f2e7685fab1f4d23908bd20970733102~mv2.jpg/v1/crop/x_149,y_129,w_2382,h_2398/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/Conor_Kelly.jpg"
+      "photo": "images/team/conor_kelly.jpg"
     },
     {
       "name": "Mary Krebs",
       "role": "Research Assistant",
       "email": "maryk88@uw.edu",
       "joined": "Sept 2022",
-      "photo": "images/team/mary_krebs.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_b4289aa67b824f7cbb6278143283205e~mv2.jpg/v1/crop/x_44,y_262,w_2220,h_2233/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_8236.jpg"
+      "photo": "images/team/mary_krebs.jpg"
     },
     {
       "name": "Lidan Li",
@@ -86,24 +78,21 @@
       "degree": "PhD in Chemical Engineering and Technology, Beijing University of Chemical Technology",
       "email": "lidanl@uw.edu",
       "joined": "Mar 2024",
-      "photo": "images/team/lidan_li.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_580f7c4c471941ccad9dddfc9627d7a9~mv2.jpg/v1/crop/x_0,y_206,w_1634,h_1634/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/Lidan%20Li.jpg"
+      "photo": "images/team/lidan_li.jpg"
     },
     {
       "name": "Nicolas Longhi",
       "role": "Research Assistant",
       "email": "longnic@uw.edu",
       "joined": "Jun 2023",
-      "photo": "images/team/nicolas_longhi.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_b67e295071c0472f94675f3a417d32b5~mv2.jpg/v1/crop/x_105,y_809,w_2459,h_2471/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_6209.jpg"
+      "photo": "images/team/nicolas_longhi.jpg"
     },
     {
       "name": "Monika Perez",
       "role": "Graduate Student (GS)",
       "email": "mwperez@uw.edu",
       "joined": "Jun 2023",
-      "photo": "images/team/monika_perez.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_eb9a0b9567364ff8b47d7a6125584423~mv2.jpg/v1/crop/x_118,y_0,w_956,h_961/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/10-03-17%20monika%20perez_headshot.jpg"
+      "photo": "images/team/monika_perez.jpg"
     },
     {
       "name": "Shreyansh Padhy",
@@ -143,204 +132,175 @@
       "name": "Arin Meeks-Muradyan",
       "role": "Undergraduate Researcher",
       "dates": "Jul 2025 – Jun 2026",
-      "photo": "images/alumni/arin_meeks_muradyan.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_69a603c238ef40acb1d738740dcd0199~mv2.jpg/v1/crop/x_256,y_153,w_541,h_541/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_9663.jpg"
+      "photo": "images/alumni/arin_meeks_muradyan.jpg"
     },
     {
       "name": "Eanya Devasagayam",
       "role": "Undergraduate Researcher",
       "dates": "Mar 2024 – Jun 2026",
-      "photo": "images/alumni/eanya_devasagayam.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_63b14e3de0984ecf8f54decaee14193a~mv2.jpg/v1/crop/x_972,y_268,w_2483,h_2486/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/DSC_7889.jpg"
+      "photo": "images/alumni/eanya_devasagayam.jpg"
     },
     {
       "name": "Kiara Dote",
       "role": "Undergraduate Researcher",
       "dates": "Oct 2025 – Jun 2026",
-      "photo": "images/alumni/kiara_dote.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_683b9fe0f8624dbaa1b3d6e6eb9f26ef~mv2.jpg/v1/crop/x_95,y_257,w_783,h_783/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_3241.jpg"
+      "photo": "images/alumni/kiara_dote.jpg"
     },
     {
       "name": "Hunter Jung",
       "role": "Undergraduate Researcher",
       "dates": "Oct 2023 – Jun 2026",
-      "photo": "images/alumni/hunter_jung.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_c4b2d9a82b9b493a90d18a50fa530ead~mv2.jpg/v1/crop/x_700,y_1135,w_1587,h_1587/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_0659.jpg"
+      "photo": "images/alumni/hunter_jung.jpg"
     },
     {
       "name": "Aadyant Maity",
       "role": "Undergraduate Researcher",
       "dates": "Aug 2025 – Mar 2026",
-      "photo": "images/alumni/aadyant_maity.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_b40e24ca6d6d4e60a5fecac9f235bb0e~mv2.jpeg/v1/crop/x_55,y_0,w_2592,h_2592/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/IMG_7489.jpeg"
+      "photo": "images/alumni/aadyant_maity.jpg"
     },
     {
       "name": "Madison Sanchez-Forman",
       "role": "MS Student (MSDS)",
       "dates": "Sept 2024 – Mar 2026",
-      "photo": "images/alumni/madison_sanchez_forman.png",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_680b1c25e7df46cea995ad16a8f8df9b~mv2.png/v1/crop/x_765,y_1587,w_2711,h_2714/fill/w_400,h_400,al_c,q_85,enc_avif,quality_auto/IMG_0291_HEIC.png"
+      "photo": "images/alumni/madison_sanchez_forman.png"
     },
     {
       "name": "Eva K. Nichols",
       "role": "Acting Instructor",
       "dates": "July 2020 – Feb 2026",
-      "photo": "images/alumni/eva_nichols.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_0f0d1822d49147459a15bf22b0cd6f51~mv2.jpg/v1/crop/x_28,y_0,w_919,h_918/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/Image%20from%20iOS%20(3).jpg"
+      "photo": "images/alumni/eva_nichols.jpg"
     },
     {
       "name": "Olivia Weissenfels",
       "role": "Rotation Student (GS)",
       "dates": "Sept 2025 – Dec 2025",
-      "photo": "images/alumni/olivia_weissenfels.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_db31bfdaec214784917857b02afb9f1c~mv2.jpg/v1/crop/x_0,y_113,w_2083,h_2083/fill/w_400,h_400,al_c,q_80,enc_avif,quality_auto/OliviaWeissenfels.jpg"
+      "photo": "images/alumni/olivia_weissenfels.jpg"
     },
     {
       "name": "David Nwizugbo",
       "role": "Research Assistant",
       "dates": "Apr 2022 – Sept 2025",
-      "photo": "images/alumni/david_nwizugbo.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_0a44d45f49d14693a9701084bfedbf2e~mv2.jpg/v1/crop/x_0,y_57,w_602,h_627/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/websitephoto.jpg"
+      "photo": "images/alumni/david_nwizugbo.jpg"
     },
     {
       "name": "Valentino (Val) Browning",
       "role": "Research Assistant",
       "dates": "Nov 2021 – Sept 2025",
-      "photo": "images/alumni/valentino_val_browning.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_f5775c8691cd41dc969a23ec2338135e~mv2.png/v1/crop/x_0,y_63,w_254,h_264/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/pic1.png"
+      "photo": "images/alumni/valentino_val_browning.jpg"
     },
     {
       "name": "Gulnar Albushova",
       "role": "MS Student (Berkeley Data Science)",
       "dates": "Jun 2025 – Jul 2025",
-      "photo": "images/alumni/gulnar_albushova.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_27d6f2d3fac8450994e9998016cfbfd9~mv2.jpg/v1/crop/x_3,y_451,w_613,h_637/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/web%20picture.jpg"
+      "photo": "images/alumni/gulnar_albushova.jpg"
     },
     {
       "name": "Vincent Chau",
       "role": "Undergraduate Researcher",
       "dates": "Jul 2023 – May 2025",
-      "photo": "images/alumni/vincent_chau.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_16d63a755dc644fba0b0cc133bd7f383~mv2.png/v1/crop/x_48,y_0,w_2304,h_2400/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/Vincent%20C.png"
+      "photo": "images/alumni/vincent_chau.jpg"
     },
     {
       "name": "Ben Scott",
       "role": "Summer Undergraduate Researcher",
       "dates": "Jun 2025 – Aug 2025",
-      "photo": "images/alumni/ben_scott.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_0c29902b6f094153b2209e10ea4ce0d5~mv2.png/v1/crop/x_150,y_54,w_379,h_395/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/image%20(26).png"
+      "photo": "images/alumni/ben_scott.jpg"
     },
     {
       "name": "Chelsey Lin",
       "role": "Research Assistant",
       "dates": "Jun 2022 – Jul 2025",
-      "photo": "images/alumni/chelsey_lin.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_1295350419584da0b9fc2853917b4dfd~mv2.jpg/v1/crop/x_674,y_192,w_597,h_621/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/%E6%9D%A5%E8%87%AA%20iOS%20%E7%9A%84%E5%9B%BE%E5%83%8F.jpg"
+      "photo": "images/alumni/chelsey_lin.jpg"
     },
     {
       "name": "Yuzhen Liu",
       "role": "Graduate Student (GS)",
       "dates": "Jun 2020 – Mar 2025",
-      "photo": "images/alumni/yuzhen_liu.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_b5bb3c2749524003a1051a96c12d4c3d~mv2.jpeg/v1/crop/x_363,y_0,w_856,h_890/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/Yuzhen_Liu_headshot.jpeg"
+      "photo": "images/alumni/yuzhen_liu.jpg"
     },
     {
       "name": "Eric Lian",
       "role": "Undergraduate Researcher",
       "dates": "Sept 2024 – Feb 2025",
-      "photo": "images/alumni/eric_lian.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_a5add8d235c4432c836f21707b7c20c2~mv2.jpg/v1/crop/x_543,y_806,w_1470,h_1529/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/ELian_JPG.jpg"
+      "photo": "images/alumni/eric_lian.jpg"
     },
     {
       "name": "Lawrie Brunswick",
       "role": "MS Student (MSDS)",
       "dates": "Sept 2023 – Dec 2024",
-      "photo": "images/alumni/lawrie_brunswick.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_b8a7c01a8fe945b9ac55b72e3c587e5c~mv2.jpeg/v1/crop/x_59,y_0,w_1682,h_1752/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/Polish_20200906_144223573.jpeg"
+      "photo": "images/alumni/lawrie_brunswick.jpg"
     },
     {
       "name": "Nicole Hang",
       "role": "Summer Undergraduate Researcher",
       "dates": "Jun 2024 – Aug 2024",
-      "photo": "images/alumni/nicole_hang.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_dca09ac672c54e76b081e4f1cd89226d~mv2.jpg/v1/crop/x_323,y_172,w_1291,h_1345/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/IMG_8858.jpg"
+      "photo": "images/alumni/nicole_hang.jpg"
     },
     {
       "name": "Jaden Mattison",
       "role": "Summer Undergraduate Researcher",
       "dates": "Jun 2024 – Aug 2024",
-      "photo": "images/alumni/jaden_mattison.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_6102493f60c24219945f92c59b22d467~mv2.jpg/v1/crop/x_58,y_115,w_1195,h_1246/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/P1010013.jpg"
+      "photo": "images/alumni/jaden_mattison.jpg"
     },
     {
       "name": "Matthew Chaw",
       "role": "Rotation Student (GS)",
       "dates": "Sept 2023 – Dec 2023",
-      "photo": "images/alumni/matthew_chaw.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_8bd579b69c5e4f95a4f526b5c32d8635~mv2.jpg/v1/crop/x_79,y_19,w_498,h_519/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/20220930%20Matthew%20Chaw%2064960%200518%20648%20(1).jpg"
+      "photo": "images/alumni/matthew_chaw.jpg"
     },
     {
       "name": "Robin Aguilar",
       "role": "Graduate Student (GS)",
       "dates": "Jun 2019 – Nov 2023",
-      "photo": "images/alumni/robin_aguilar.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_4e2463c93e4d4469b579ad1a7b0f5363~mv2.jpg/v1/crop/x_943,y_970,w_1194,h_1244/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/IMG_5236_JPG.jpg"
+      "photo": "images/alumni/robin_aguilar.jpg"
     },
     {
       "name": "Caleb Kono",
       "role": "Undergraduate Researcher",
       "dates": "Jun 2022 – Sept 2023",
-      "photo": "images/alumni/caleb_kono.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_f537f23786b543b98464b6800b5c19da~mv2.jpg/v1/crop/x_454,y_55,w_483,h_502/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/8265D3DF-7F29-404A-8F6F-B35C49F02521.jpg"
+      "photo": "images/alumni/caleb_kono.jpg"
     },
     {
       "name": "Chandler Ault",
       "role": "MS Student (MSDS)",
       "dates": "Oct 2022 – Jul 2023",
-      "photo": "images/alumni/chandler_ault.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_60bbe04c58984bb0b5b1403b6de2b7ed~mv2.png/v1/crop/x_5,y_5,w_259,h_266/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/beliveau.png"
+      "photo": "images/alumni/chandler_ault.jpg"
     },
     {
       "name": "Stephen Gonzalez",
       "role": "GS Rotation Student",
       "dates": "Apr 2023 – Jun 2023",
-      "photo": "images/alumni/stephen_gonzalez.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_6a1e2f3c8e2d4a49abf3489a9eaeecbb~mv2.jpg/v1/crop/x_0,y_64,w_1125,h_1143/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/8F218844-9CDF-485A-9686-CD5FCEF10EF3%202.jpg"
+      "photo": "images/alumni/stephen_gonzalez.jpg"
     },
     {
       "name": "Thomas A. Perkins, Jr.",
       "role": "Research Assistant",
       "dates": "Sept 2022 – Mar 2023",
-      "photo": "images/alumni/thomas_a_perkins_jr.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_d6d9ed3c539449de85c4a157d4ba3abf~mv2.jpg/v1/crop/x_400,y_228,w_962,h_975/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/IMG_1941.jpg"
+      "photo": "images/alumni/thomas_a_perkins_jr.jpg"
     },
     {
       "name": "Connor Finkbeiner",
       "role": "GS Rotation Student",
       "dates": "Jan 2023 – Mar 2023",
-      "photo": "images/alumni/connor_finkbeiner.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_1e9ca347553042469ef19e8e732bbc1b~mv2.png/v1/crop/x_366,y_353,w_902,h_918/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/MicrosoftTeams-image%20(3).png"
+      "photo": "images/alumni/connor_finkbeiner.jpg"
     },
     {
       "name": "Conor Kelly",
       "role": "GS Rotation Student",
       "dates": "Jan 2023 – Mar 2023",
-      "photo": "images/alumni/conor_kelly.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_f2e7685fab1f4d23908bd20970733102~mv2.jpg/v1/crop/x_0,y_83,w_2596,h_2638/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/Conor_Kelly.jpg"
+      "photo": "images/alumni/conor_kelly.jpg"
     },
     {
       "name": "Monika Perez",
       "role": "GS Rotation Student",
       "dates": "Sept 2022 – Dec 2022",
-      "photo": "images/alumni/monika_perez.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_eb9a0b9567364ff8b47d7a6125584423~mv2.jpg/v1/crop/x_176,y_0,w_828,h_841/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/10-03-17%20monika%20perez_headshot.jpg"
+      "photo": "images/alumni/monika_perez.jpg"
     },
     {
       "name": "Sahar Attar",
       "role": "GS Rotation Student",
       "dates": "Sept 2022 – Dec 2022",
-      "photo": "images/alumni/sahar_attar.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_cd269df7dfd0428da300fe2efcaca167~mv2.jpg/v1/crop/x_671,y_179,w_2054,h_2092/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/IMG_0504.jpg"
+      "photo": "images/alumni/sahar_attar.jpg"
     },
     {
       "name": "Sahar Attar",
@@ -353,78 +313,67 @@
       "name": "Melissa Phung-Rojas",
       "role": "Summer Undergraduate Researcher",
       "dates": "May 2022 – Aug 2022",
-      "photo": "images/alumni/melissa_phung-rojas.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_cfc0edab8ee747a990de245b22af45f4~mv2.png/v1/crop/x_335,y_711,w_534,h_542/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/Image%20from%20iOS.png"
+      "photo": "images/alumni/melissa_phung-rojas.jpg"
     },
     {
       "name": "Saurabh Shukla",
       "role": "Visiting Postdoctoral Fellow",
       "dates": "Jul 2021 – Jun 2022",
-      "photo": "images/alumni/saurabh_shukla.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_7ea7cdbaa817402eae99162f93b8fd95~mv2.jpeg/v1/crop/x_43,y_26,w_463,h_466/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/SaurabhShukla.jpeg"
+      "photo": "images/alumni/saurabh_shukla.jpg"
     },
     {
       "name": "Benjamin Mallory",
       "role": "GS Rotation Student",
       "dates": "Mar 2022 – Jun 2022",
-      "photo": "images/alumni/benjamin_mallory.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_645dd66530044c85a5c94dabef9e4707~mv2.jpg/v1/crop/x_0,y_65,w_1908,h_1923/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/Headshot.jpg"
+      "photo": "images/alumni/benjamin_mallory.jpg"
     },
     {
       "name": "Chris Hsu",
       "role": "Graduate Student (GS)",
       "dates": "Jun 2021 – Mar 2022",
-      "photo": "images/alumni/chris_hsu.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_aec97330b4434b2d9b3e3e5bf03d72e6~mv2.jpg/v1/crop/x_67,y_36,w_624,h_622/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/IMG_2689.jpg"
+      "photo": "images/alumni/chris_hsu.jpg"
     },
     {
       "name": "Lily Deng",
       "role": "Staff Engineer",
       "dates": "Sept 2018 – Mar 2022",
-      "photo": "images/alumni/lily_deng.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_434a42ffab304f38ad2e22b436bd6e74~mv2.png/v1/crop/x_1,y_0,w_238,h_240/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/lily-picture-3.png"
+      "photo": "images/alumni/lily_deng.jpg"
     },
     {
       "name": "Malvika Tejura",
       "role": "GS Rotation Student",
       "dates": "Jan 2022 – Mar 2022",
-      "photo": "images/alumni/malvika_tejura.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_e4676f3e8d4947b0babc468429341fc3~mv2.jpg/v1/crop/x_1133,y_0,w_4438,h_4474/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/Image%20from%20iOS.jpg"
+      "photo": "images/alumni/malvika_tejura.jpg"
     },
     {
       "name": "Connor Kubo",
       "role": "GS Rotation Student",
       "dates": "Sept 2021 – Dec 2021",
-      "photo": "images/alumni/connor_kubo.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_5162456e3e934752b920ef21d0474bba~mv2.jpg/v1/crop/x_0,y_137,w_727,h_727/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/Image%20from%20iOS%20(6).jpg"
+      "photo": "images/alumni/connor_kubo.jpg"
     },
     {
       "name": "Shruti Jain",
       "role": "GS Rotation Student",
       "dates": "Sept 2021 – Dec 2021",
-      "photo": "images/alumni/shruti_jain.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_fb7af1c8193c4974ae6b1d4c8026b31d~mv2.jpeg/v1/crop/x_122,y_0,w_836,h_836/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/ShrutiJainPicture.jpeg"
+      "photo": "images/alumni/shruti_jain.jpg"
     },
     {
       "name": "Sneh Gupta",
       "role": "Undergraduate Researcher",
       "dates": "Jun 2021 – Dec 2021",
-      "photo": "images/alumni/sneh_gupta.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_58f8948610e84590b94376de9441ec8f~mv2.png/v1/crop/x_54,y_1,w_874,h_879/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/image%20(18).png"
+      "photo": "images/alumni/sneh_gupta.jpg"
     },
     {
       "name": "Caleb Bower",
       "role": "GS Summer REU Researcher",
       "dates": "Jun 2021 – Aug 2021",
-      "photo": "images/alumni/caleb_bower.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_c3f731fb8cb34b81bd32dd5ddf534c29~mv2.jpg/v1/crop/x_62,y_29,w_254,h_254/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/Linkedin_JPG.jpg"
+      "photo": "images/alumni/caleb_bower.jpg"
     },
     {
       "name": "Ryan Chern",
       "role": "Undergraduate Researcher",
       "dates": "Nov 2019 – Jun 2021",
-      "photo": "images/alumni/ryan_chern.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_ff4f97ad82874022bfc63ee7a6f51695~mv2_d_1281_1281_s_2.png/v1/crop/x_5,y_0,w_1271,h_1281/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/ryanchern.png"
+      "photo": "images/alumni/ryan_chern.jpg"
     },
     {
       "name": "Melissa Phung-Rojas",
@@ -444,71 +393,61 @@
       "name": "Lincoln Harris",
       "role": "GS Rotation Student",
       "dates": "Mar 2021 – Jun 2021",
-      "photo": "images/alumni/lincoln_harris.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_658692ad466b4200ae6307156a574f1a~mv2.png/v1/crop/x_0,y_160,w_686,h_687/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/ljh_headshot.png"
+      "photo": "images/alumni/lincoln_harris.jpg"
     },
     {
       "name": "Shayan Avanessian",
       "role": "MCB Rotation Student",
       "dates": "Jan 2021 – Mar 2021",
-      "photo": "images/alumni/shayan_avanessian.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_6df9d7f24df24c5a9cb5ba52057c8f2f~mv2.jpg/v1/crop/x_289,y_252,w_920,h_921/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/Shayan_broadheadshot.jpg"
+      "photo": "images/alumni/shayan_avanessian.jpg"
     },
     {
       "name": "Jackson Zariski",
       "role": "Undergraduate Researcher",
       "dates": "Feb 2019 – Mar 2021",
-      "photo": "images/alumni/jackson_zariski.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_b35e037def9e4ccc8f7119b3ee2d0311~mv2.png/v1/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/Jackson.png"
+      "photo": "images/alumni/jackson_zariski.jpg"
     },
     {
       "name": "Alisa Tvorun-Dunn",
       "role": "Undergraduate Researcher",
       "dates": "Jan 2019 – Mar 2021",
-      "photo": "images/alumni/alisa_tvorun-dunn.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_5192317481b344159090bdcd76aced16~mv2.png/v1/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/Alisa.png"
+      "photo": "images/alumni/alisa_tvorun-dunn.jpg"
     },
     {
       "name": "Leah Anderson",
       "role": "GS Rotation Student",
       "dates": "Sept 2020 – Dec 2020",
-      "photo": "images/alumni/leah_anderson.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_680646f7a95d463e96ce9273420029a7~mv2.jpg/v1/crop/x_0,y_156,w_761,h_761/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/leah_headshot.jpg"
+      "photo": "images/alumni/leah_anderson.jpg"
     },
     {
       "name": "Aidan Keith",
       "role": "GS Rotation Student",
       "dates": "Sept 2020 – Dec 2020",
-      "photo": "images/alumni/aidan_keith.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_d9e76b51ff974de2984dc80f14a79da1~mv2.jpg/v1/crop/x_0,y_106,w_1725,h_1725/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/AK_Photo.jpg"
+      "photo": "images/alumni/aidan_keith.jpg"
     },
     {
       "name": "Jumana Fathima",
       "role": "Summer Undergraduate Researcher",
       "dates": "Jun 2020 – Sept 2020",
-      "photo": "images/alumni/jumana_fathima.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_bb8e95467c80486fb8662d65ba1f09a8~mv2.png/v1/crop/x_44,y_15,w_363,h_363/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/headshot_jumana.png"
+      "photo": "images/alumni/jumana_fathima.jpg"
     },
     {
       "name": "Elliot Hershberg",
       "role": "Postbaccalaureate Researcher & Research Assistant",
       "dates": "Sept 2018 – Jun 2020",
-      "photo": "images/alumni/elliot_hershberg.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_cb3d13506f174d94b7a238d18d98bc47~mv2.png/v1/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/elliot_hershberg_portrait_photo_240.png"
+      "photo": "images/alumni/elliot_hershberg.jpg"
     },
     {
       "name": "Zorian Thornton",
       "role": "GS Rotation Student",
       "dates": "Mar 2020 – Jun 2020",
-      "photo": "images/alumni/zorian_thornton.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_b1607ef8117a430fb1b5e41dae4c9f06~mv2.jpg/v1/crop/x_234,y_208,w_925,h_927/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/recomb19-min_JPG.jpg"
+      "photo": "images/alumni/zorian_thornton.jpg"
     },
     {
       "name": "Conor Camplisson",
       "role": "GS Rotation Student",
       "dates": "Sept 2019 – Dec 2019",
-      "photo": "images/alumni/conor_camplisson.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_8b5707e1f21f44619b04bd9c15a7b8c2~mv2.png/v1/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/profile_crop3.png"
+      "photo": "images/alumni/conor_camplisson.jpg"
     },
     {
       "name": "Yuzhen Liu",
@@ -521,8 +460,7 @@
       "name": "Soyeon Showman",
       "role": "MCB Rotation Student",
       "dates": "Sept 2019 – Dec 2019",
-      "photo": "images/alumni/soyeon_showman.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_bebadcccdea74ed391a531c62281280c~mv2_d_2132_2064_s_2.jpg/v1/crop/x_310,y_231,w_1395,h_1395/fill/w_240,h_250,al_c,q_80,enc_avif,quality_auto/Soyeon%20Showman_JPG.jpg"
+      "photo": "images/alumni/soyeon_showman.jpg"
     },
     {
       "name": "Robin Aguilar",
@@ -535,8 +473,7 @@
       "name": "Amy Xu",
       "role": "Undergraduate Researcher",
       "dates": "Sept 2018 – May 2019",
-      "photo": "images/alumni/amy_xu.jpg",
-      "photo_remote": "https://static.wixstatic.com/media/b8abaf_bdb58a5ab2c04292a881e3868f8629cc~mv2.png/v1/fill/w_240,h_250,al_c,q_85,enc_avif,quality_auto/amyxu.png"
+      "photo": "images/alumni/amy_xu.jpg"
     }
   ]
 }
