@@ -83,6 +83,10 @@
         {
           "label": "Journal",
           "url": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(26)00281-9"
+        },
+        {
+          "url": "https://www.cell.com/molecular-cell/pdf/S1097-2765(26)00281-9.pdf",
+          "label": "PDF"
         }
       ]
     },
@@ -96,6 +100,10 @@
         {
           "label": "Journal",
           "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00508-8"
+        },
+        {
+          "url": "https://www.cell.com/cell/pdf/S0092-8674(26)00508-8.pdf",
+          "label": "PDF"
         }
       ]
     },
@@ -109,6 +117,14 @@
         {
           "label": "Journal",
           "url": "https://elifesciences.org/articles/102489"
+        },
+        {
+          "url": "https://elifesciences.org/articles/102489.pdf",
+          "label": "PDF"
+        },
+        {
+          "url": "https://elifesciences.org/articles/102489/figures",
+          "label": "SI"
         }
       ]
     },
@@ -122,6 +138,10 @@
         {
           "label": "Journal",
           "url": "https://link.springer.com/protocol/10.1007/978-1-0716-4750-9_5"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-1-0716-4750-9_5.pdf",
+          "label": "PDF"
         }
       ]
     },
