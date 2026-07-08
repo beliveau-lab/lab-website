@@ -125,6 +125,14 @@
       "photo": "images/team/krishna_pratheek_madamala.jpg",
       "joined": "Jan 2026",
       "email": "kmadam@uw.edu"
+    },
+    {
+      "name": "Thea Layman",
+      "role": "Summer Undergraduate Researcher",
+      "program": "UW Molecular, Cellular & Developmental Biology",
+      "photo": "images/team/thea_layman.jpg",
+      "joined": "Jun 2026",
+      "email": "talayman@uw.edu"
     }
   ],
   "alumni": [
