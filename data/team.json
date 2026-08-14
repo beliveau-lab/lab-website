@@ -133,6 +133,14 @@
       "photo": "images/team/thea_layman.jpg",
       "joined": "Jun 2026",
       "email": "talayman@uw.edu"
+    },
+    {
+      "name": "Winnie Wang",
+      "role": "Keck Center Operations Manager & Imaging Scientist",
+      "degree": "PhD in Theoretical Physics, VU University Amsterdam",
+      "photo": "images/team/winnie_wang.jpg",
+      "joined": "Aug 2026",
+      "email": "winnie9@uw.edu"
     }
   ],
   "alumni": [
