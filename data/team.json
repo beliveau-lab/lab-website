@@ -26,10 +26,11 @@
     },
     {
       "name": "Conor Camplisson",
-      "role": "Graduate Student (GS)",
+      "role": "Postdoctoral Fellow",
       "email": "concamp@uw.edu",
       "joined": "Jun 2020",
-      "photo": "images/team/conor_camplisson.png"
+      "photo": "images/team/conor_camplisson.png",
+      "program": "UW CoMotion Postdoctoral Entrepreneurship Program (PEP)"
     },
     {
       "name": "Pratika Eswaran",
@@ -66,26 +67,12 @@
       "photo": "images/team/conor_kelly.jpg"
     },
     {
-      "name": "Mary Krebs",
-      "role": "Research Assistant",
-      "email": "maryk88@uw.edu",
-      "joined": "Sept 2022",
-      "photo": "images/team/mary_krebs.jpg"
-    },
-    {
       "name": "Lidan Li",
       "role": "Acting Instructor",
       "degree": "PhD in Chemical Engineering and Technology, Beijing University of Chemical Technology",
       "email": "lidanl@uw.edu",
       "joined": "Mar 2024",
       "photo": "images/team/lidan_li.jpg"
-    },
-    {
-      "name": "Nicolas Longhi",
-      "role": "Research Assistant",
-      "email": "longnic@uw.edu",
-      "joined": "Jun 2023",
-      "photo": "images/team/nicolas_longhi.jpg"
     },
     {
       "name": "Monika Perez",
@@ -127,14 +114,6 @@
       "email": "kmadam@uw.edu"
     },
     {
-      "name": "Thea Layman",
-      "role": "Summer Undergraduate Researcher",
-      "program": "UW Molecular, Cellular & Developmental Biology",
-      "photo": "images/team/thea_layman.jpg",
-      "joined": "Jun 2026",
-      "email": "talayman@uw.edu"
-    },
-    {
       "name": "Winnie Wang",
       "role": "Keck Center Operations Manager & Imaging Scientist",
       "degree": "PhD in Theoretical Physics, VU University Amsterdam",
@@ -144,6 +123,24 @@
     }
   ],
   "alumni": [
+    {
+      "name": "Mary Krebs",
+      "role": "Research Assistant",
+      "dates": "Sept 2022 – Sept 2026",
+      "photo": "images/alumni/mary_krebs.jpg"
+    },
+    {
+      "name": "Nicolas Longhi",
+      "role": "Research Assistant",
+      "dates": "Jun 2023 – Sept 2026",
+      "photo": "images/alumni/nicolas_longhi.jpg"
+    },
+    {
+      "name": "Thea Layman",
+      "role": "Summer Undergraduate Researcher",
+      "dates": "Jun 2026 – Aug 2026",
+      "photo": "images/alumni/thea_layman.jpg"
+    },
     {
       "name": "Arin Meeks-Muradyan",
       "role": "Undergraduate Researcher",
