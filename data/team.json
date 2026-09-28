@@ -26,11 +26,11 @@
     },
     {
       "name": "Conor Camplisson",
-      "role": "Postdoctoral Fellow",
+      "role": "CoMotion PEP Postdoctoral Fellow",
+      "degree": "PhD in Genome Sciences, University of Washington",
       "email": "concamp@uw.edu",
       "joined": "Jun 2020",
-      "photo": "images/team/conor_camplisson.png",
-      "program": "UW CoMotion Postdoctoral Entrepreneurship Program (PEP)"
+      "photo": "images/team/conor_camplisson.png"
     },
     {
       "name": "Pratika Eswaran",
