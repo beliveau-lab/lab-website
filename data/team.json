@@ -120,6 +120,21 @@
       "photo": "images/team/winnie_wang.jpg",
       "joined": "Aug 2026",
       "email": "winnie9@uw.edu"
+    },
+    {
+      "name": "Nicholas Zeng",
+      "role": "MS Student (MSDS)",
+      "email": "zengyx@uw.edu",
+      "joined": "Oct 2026",
+      "photo": "images/team/nicholas_zeng.jpg"
+    },
+    {
+      "name": "Chloe Nery",
+      "role": "Undergraduate Researcher",
+      "program": "UW Microbiology",
+      "email": "cnery@uw.edu",
+      "joined": "Oct 2026",
+      "photo": "images/team/chloe_nery.jpg"
     }
   ],
   "alumni": [

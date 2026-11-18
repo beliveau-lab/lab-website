@@ -1,5 +1,17 @@
 [
   {
+    "month": "October 2026",
+    "items": [
+      "Nicholas Zeng joins the lab as a <a href=\"https://www.washington.edu/datasciencemasters/\">MSDS Master's student</a>. Welcome, Nicholas!",
+      "Chloe Nery (UW Microbiology) joins the lab as an undergraduate researcher. Welcome, Chloe!",
+      "The lab goes out for hotpot!"
+    ],
+    "photos": [
+      "images/news/october_2026_1.jpg",
+      "images/news/october_2026_2.jpg"
+    ]
+  },
+  {
     "month": "September 2026",
     "items": [
       "Mary Krebs departs to start as a PhD student in the <a href=\"https://depts.washington.edu/mcb/\">UW MCB program</a>. Congrats, Mary—and farewell!",
