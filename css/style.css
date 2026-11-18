@@ -174,13 +174,14 @@ section > h2 {
   content: ""; position: absolute; left: 2px; top: 10px;
   width: 8px; height: 8px; border-radius: 50%; background: var(--blue);
 }
-.news-photos {
-  display: grid; gap: 10px; margin: 10px 0 4px;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+/* Masonry collage: images keep native aspect (no cropping); column count is
+   set per gallery in js/news.js from the photo count. */
+.news-photos { margin: 12px 0 6px; column-gap: 10px; }
+.news-photos a {
+  display: block; break-inside: avoid; margin: 0 0 10px;
+  cursor: zoom-in; border-radius: 8px; overflow: hidden; box-shadow: var(--shadow);
 }
-.news-photos img { border-radius: 8px; box-shadow: var(--shadow); }
-.news-photos a { display: block; cursor: zoom-in; }
-.news-photos a img { width: 100%; height: auto; transition: opacity .15s; }
+.news-photos a img { width: 100%; height: auto; display: block; transition: opacity .15s; }
 .news-photos a:hover img { opacity: .85; }
 
 /* Lightbox (news photos only) */

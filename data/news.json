@@ -97,13 +97,20 @@
     "month": "July 2025",
     "items": [
       "Pratika Eswaran (UW Computer Science) joins the lab as an undergraduate researcher. Welcome, Pratika!",
-      "The lab goes ice skating! And out to lunch afterwards.",
+      {
+        "text": "The lab goes ice skating! And out to lunch afterwards.",
+        "photos": [
+          "images/news/news_b8abaf_a72159cc794c4ddd9cb3269b3a169cdb.jpg",
+          "images/news/news_b8abaf_42caafd23057431e87577353d01822fc.jpg",
+          "images/news/news_2025-07_skate_1.jpg",
+          "images/news/news_2025-07_skate_2.jpg",
+          "images/news/news_2025-07_skate_3.jpg",
+          "images/news/news_2025-07_skate_4.jpg",
+          "images/news/news_2025-07_skate_5.jpg"
+        ]
+      },
       "Chelsey Lin heads off to join the <a href=\"https://bioengineering.rice.edu/academics/phd-program\">Rice Bioengineering PhD program</a>. Congrats, Chelsey—and farewell!",
       "Arin Meeks-Muradyan (UW Bioengineering) joins the lab as an undergraduate researcher. Welcome, Arin!"
-    ],
-    "photos": [
-      "images/news/news_b8abaf_a72159cc794c4ddd9cb3269b3a169cdb.jpg",
-      "images/news/news_b8abaf_42caafd23057431e87577353d01822fc.jpg"
     ],
     "photos_local": [
       "images/news/july_2025_1.jpg",
@@ -163,11 +170,15 @@
     "month": "July 2024",
     "items": [
       "A preprint co-led by Yuzhen Liu and featuring contributions from Mary Krebs, Conor Camplisson, and David Nwizugbo—<a href=\"https://www.biorxiv.org/content/10.1101/2024.07.24.604987v3\">DNA O-MAP uncovers the molecular neighborhoods associated with specific genomic loci</a>—goes online at bioRxiv. Congrats all!",
-      "The lab goes on a hike to Keekwulee Falls!",
+      {
+        "text": "The lab goes on a hike to Keekwulee Falls!",
+        "photos": [
+          "images/news/news_b8abaf_26330bd356f345b7b41ad73d3b0a0e61.jpg",
+          "images/news/news_2024-07_hike_1.jpg",
+          "images/news/news_2024-07_hike_2.jpg"
+        ]
+      },
       "Conor Herlihy joins the lab as a postdoctoral fellow (joint with the <a href=\"https://www.schweppelab.org/\">Schweppe Lab</a>). Welcome, Conor!"
-    ],
-    "photos": [
-      "images/news/news_b8abaf_26330bd356f345b7b41ad73d3b0a0e61.jpg"
     ],
     "photos_local": [
       "images/news/july_2024_1.jpg"
@@ -216,8 +227,21 @@
   {
     "month": "December 2023",
     "items": [
-      "The lab journeys down the Burke Gilman trail for an end of quarter outing to Dough Zone.",
-      "The lab gets an early holiday present!"
+      {
+        "text": "The lab journeys down the Burke Gilman trail for an end of quarter outing to Dough Zone.",
+        "photos": [
+          "images/news/news_2023-12_doughzone_1.jpg",
+          "images/news/news_2023-12_doughzone_2.jpg",
+          "images/news/news_2023-12_doughzone_3.jpg"
+        ]
+      },
+      {
+        "text": "The lab gets an early holiday present!",
+        "photos": [
+          "images/news/news_2023-12_scope_1.jpg",
+          "images/news/news_2023-12_scope_2.jpg"
+        ]
+      }
     ]
   },
   {
@@ -247,8 +271,20 @@
   {
     "month": "August 2023",
     "items": [
-      "The lab wins a Lab Safety award in our annual inspection. Big thanks to Sahar (lead), Conor K., Mary, and Val for leading our safety and compliance efforts.",
-      "We have our annual lab retreat! Dumplings were consumed. Pins were felled."
+      {
+        "text": "The lab wins a Lab Safety award in our annual inspection. Big thanks to Sahar (lead), Conor K., Mary, and Val for leading our safety and compliance efforts.",
+        "photos": [
+          "images/news/news_2023-08_safety_1.jpg",
+          "images/news/news_2023-08_safety_2.jpg"
+        ]
+      },
+      {
+        "text": "We have our annual lab retreat! Dumplings were consumed. Pins were felled.",
+        "photos": [
+          "images/news/news_2023-08_retreat_1.jpg",
+          "images/news/news_2023-08_retreat_2.jpg"
+        ]
+      }
     ]
   },
   {
@@ -269,7 +305,12 @@
   {
     "month": "May 2023",
     "items": [
-      "The lab goes ice skating"
+      {
+        "text": "The lab goes ice skating",
+        "photos": [
+          "images/news/news_2023-05_skate_1.jpg"
+        ]
+      }
     ]
   },
   {
@@ -311,7 +352,14 @@
   {
     "month": "July 2022",
     "items": [
-      "We have our annual lab retreat (in 2 parts) with visits to the <a href=\"https://www.seattleartmuseum.org/\">Seattle Art Museum</a> and the <a href=\"https://vangoghexpo.com/\">Van Gogh Immersive Experience</a>!",
+      {
+        "text": "We have our annual lab retreat (in 2 parts) with visits to the <a href=\"https://www.seattleartmuseum.org/\">Seattle Art Museum</a> and the <a href=\"https://vangoghexpo.com/\">Van Gogh Immersive Experience</a>!",
+        "photos": [
+          "images/news/news_2022-07_retreat_1.jpg",
+          "images/news/news_2022-07_retreat_2.jpg",
+          "images/news/news_2022-07_retreat_3.jpg"
+        ]
+      },
       "A paper led by Lily Deng—<a href=\"https://www.sciencedirect.com/science/article/pii/S2468067222000888\">An open source 16-channel fluidics system for automating sequential fluorescent in situ hybridization (FISH)-based imaging</a>—is published in HardwareX. Congrats, Lily!"
     ]
   },
@@ -320,7 +368,13 @@
     "items": [
       "Caleb Kono (UW Biochemistry) joins the lab as a <a href=\"https://www.gs.washington.edu/academics/summer/gssummer/index.htm\">UW GS Summer REU</a> researcher. Welcome, Caleb!",
       "Chelsey Lin (UW Physiology) joins the lab as an undergraduate researcher. Welcome, Chelsey!",
-      "Saurabh Shukla starts his new position at <a href=\"https://prescryptive.com/\">Prescryptive Health</a> as a Data Scientist. Congrats, Saurabh—and farewell!"
+      "Saurabh Shukla starts his new position at <a href=\"https://prescryptive.com/\">Prescryptive Health</a> as a Data Scientist. Congrats, Saurabh—and farewell!",
+      {
+        "text": "The lab goes out for coffee and pastries to send off Saurabh!",
+        "photos": [
+          "images/news/news_2022-06_saurabh_1.jpg"
+        ]
+      }
     ]
   },
   {
@@ -393,7 +447,13 @@
   {
     "month": "August 2021",
     "items": [
-      "We have our second (and all outdoor) lab retreat!"
+      {
+        "text": "We have our second (and all outdoor) lab retreat!",
+        "photos": [
+          "images/news/news_2021-08_retreat_1.jpg",
+          "images/news/news_2021-08_retreat_2.jpg"
+        ]
+      }
     ]
   },
   {
@@ -508,15 +568,31 @@
   {
     "month": "December 2019",
     "items": [
-      "We obtain some important new lab equipment.",
+      {
+        "text": "We obtain some important new lab equipment.",
+        "photos": [
+          "images/news/news_2019-12_equipment_1.jpg",
+          "images/news/news_2019-12_equipment_2.jpg"
+        ]
+      },
       "<a href=\"https://centerforadvancedimaging.harvard.edu/people/haitham-shaban-phd\">Haitham Shaban</a> visits the lab for a week as part of the <a href=\"https://researchexchange.berkeley.edu/\">Research Exchange Program</a>. Welcome, Haitham!"
     ]
   },
   {
     "month": "October 2019",
     "items": [
-      "Elliot, Robin, Lily, and Brian travel to the Pairing Hoedown in Cleveland!",
-      "Lab potluck to welcome Soyeon, Yuzhen, and Conor!"
+      {
+        "text": "Elliot, Robin, Lily, and Brian travel to the Pairing Hoedown in Cleveland!",
+        "photos": [
+          "images/news/news_2019-10_hoedown_1.jpg"
+        ]
+      },
+      {
+        "text": "Lab potluck to welcome Soyeon, Yuzhen, and Conor!",
+        "photos": [
+          "images/news/news_2019-10_potluck_1.jpg"
+        ]
+      }
     ]
   },
   {
@@ -528,7 +604,12 @@
   {
     "month": "August 2019",
     "items": [
-      "We have our first lab retreat!",
+      {
+        "text": "We have our first lab retreat!",
+        "photos": [
+          "images/news/news_2019-08_retreat_1.jpg"
+        ]
+      },
       "A preprint from the <a href=\"https://sites.google.com/site/harriskelley/home\">Kelley Harris lab</a> in which Robin Aguilar participated—<a href=\"https://www.biorxiv.org/content/10.1101/708230v1\">Selection against archaic DNA in human regulatory regions</a>—is posted on bioRxiv. Congrats, Robin!",
       "Lily Deng has an abstract chosen for a talk at <a href=\"https://www.grc.org/genome-architecture-in-cell-fate-and-disease-conference/2019/\">GRC Genome Architecture in Cell Fate and Disease 2019</a>. Congrats, Lily!"
     ]
