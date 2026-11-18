@@ -4,11 +4,13 @@
     "items": [
       "Nicholas Zeng joins the lab as a <a href=\"https://www.washington.edu/datasciencemasters/\">MSDS Master's student</a>. Welcome, Nicholas!",
       "Chloe Nery (UW Microbiology) joins the lab as an undergraduate researcher. Welcome, Chloe!",
-      "The lab goes out for hotpot!"
-    ],
-    "photos": [
-      "images/news/october_2026_1.jpg",
-      "images/news/october_2026_2.jpg"
+      {
+        "text": "The lab goes out for hotpot!",
+        "photos": [
+          "images/news/october_2026_1.jpg",
+          "images/news/october_2026_2.jpg"
+        ]
+      }
     ]
   },
   {
@@ -215,13 +217,12 @@
     "month": "January 2024",
     "items": [
       "A paper led by Robin Aguilar and featuring contributions from Conor Camplisson and Chelsey Lin—<a href=\"https://www.nature.com/articles/s41467-024-45385-x\">Tigerfish designs oligonucleotide-based in situ hybridization probes targeting intervals of highly repetitive DNA at the scale of genomes</a>—is published in Nature Communications. Congrats all!",
-      "Our new high performance image analysis workstation, \"Ozymandias\", arrives! The team is excited to circle lots of objects..."
-    ],
-    "photos": [
-      "images/news/news_b8abaf_315bd44dd2ff4e6284365308709ff195.jpg"
-    ],
-    "photos_local": [
-      "images/news/january_2024_1.jpg"
+      {
+        "text": "Our new high performance image analysis workstation, \"Ozymandias\", arrives! The team is excited to circle lots of objects...",
+        "photos": [
+          "images/news/news_b8abaf_315bd44dd2ff4e6284365308709ff195.jpg"
+        ]
+      }
     ]
   },
   {

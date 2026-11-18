@@ -42,17 +42,18 @@ async function renderNews() {
   }
 }
 
-// Builds a grid of click-to-enlarge thumbnails for a set of photos; used for
-// both per-item galleries and legacy month-level galleries.
+// Builds a justified gallery of click-to-enlarge photos, used for both
+// per-item and legacy month-level galleries. Photos keep their order and full
+// frame (no cropping); photos in a row share one height and rows run flush to
+// the gallery width. Row breaks are re-chosen when an image loads (its aspect
+// ratio becomes known) or the gallery is resized.
+const GALLERY_GAP = 8;       // px; keep in sync with .news-row gap in style.css
+const GALLERY_MAX_H = 320;   // px; caps row height so 1-2 photo sets stay modest
+
 function makeGallery(photos, label) {
   const gallery = document.createElement("div");
   gallery.className = "news-photos";
-  // Column count + width scale with the number of photos so single images show
-  // large, pairs sit 2-up, and bigger sets pack into a tidy masonry.
-  const n = photos.length;
-  gallery.style.columnCount = (n === 4) ? 2 : Math.min(n, 3);
-  gallery.style.maxWidth = n === 1 ? "600px" : n === 2 ? "740px" : "920px";
-  photos.forEach((src, i) => {
+  const links = photos.map((src, i) => {
     // Wrapped in a link so the photo still opens without JS (or in a new tab
     // with cmd/ctrl-click); a plain click opens the lightbox.
     const link = document.createElement("a");
@@ -64,11 +65,61 @@ function makeGallery(photos, label) {
       openLightbox(photos, i, label);
     });
     const img = document.createElement("img");
-    img.src = src; img.loading = "lazy"; img.alt = label + " lab photo";
+    img.loading = "lazy"; img.alt = label + " lab photo";
+    img.addEventListener("load", () => layoutGallery(gallery, links));
+    img.src = src;
     link.appendChild(img);
-    gallery.appendChild(link);
+    return link;
   });
+  new ResizeObserver(() => layoutGallery(gallery, links)).observe(gallery);
   return gallery;
+}
+
+function layoutGallery(gallery, links) {
+  const W = gallery.clientWidth;
+  if (!W) return;
+  const ars = links.map(l => {
+    const im = l.firstChild;
+    return im.naturalWidth ? im.naturalWidth / im.naturalHeight : 4 / 3;
+  });
+  const key = W + ":" + ars.map(a => a.toFixed(3)).join(",");
+  if (gallery.dataset.layout === key) return;   // nothing changed
+  gallery.dataset.layout = key;
+
+  // Height a row of photos i..j-1 needs to span the full width.
+  const sum = (i, j) => ars.slice(i, j).reduce((a, b) => a + b, 0);
+  const rowH = (i, j) => (W - GALLERY_GAP * (j - i - 1)) / sum(i, j);
+
+  // Pick row breaks (photos stay in order) that keep every row as close as
+  // possible to the target height.
+  const target = Math.min(230, Math.max(120, W * 0.32));
+  const n = ars.length, cost = [0], from = [0];
+  for (let j = 1; j <= n; j++) {
+    cost[j] = Infinity;
+    for (let i = 0; i < j; i++) {
+      const c = cost[i] + (rowH(i, j) - target) ** 2;
+      if (c < cost[j]) { cost[j] = c; from[j] = i; }
+    }
+  }
+  const rows = [];
+  for (let j = n; j > 0; j = from[j]) rows.unshift([from[j], j]);
+
+  gallery.replaceChildren(...rows.map(([i, j]) => {
+    const row = document.createElement("div");
+    row.className = "news-row";
+    const h = rowH(i, j);
+    // A row that would be taller than the cap stays at the cap and doesn't
+    // stretch to full width (e.g. a lone photo).
+    if (h > GALLERY_MAX_H) {
+      row.style.maxWidth = (sum(i, j) * GALLERY_MAX_H + GALLERY_GAP * (j - i - 1)) + "px";
+    }
+    for (let k = i; k < j; k++) {
+      links[k].style.flex = `${ars[k]} 1 0px`;
+      links[k].style.aspectRatio = ars[k];
+      row.appendChild(links[k]);
+    }
+    return row;
+  }));
 }
 
 // ---- Click-to-enlarge viewer for news photos ----
